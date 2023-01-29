@@ -1,0 +1,3579 @@
+[
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "3rd Party DLP",
+    "Product.ID": "ICTO-11221"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-4950"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-25463"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-17719"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-4638"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-30568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-31588"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-23847"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-12485"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-24583"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-46"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-30924"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-400"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-17720"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-12143"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-18845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-14499"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-20409"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-14987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-25693"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-17464"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Approval",
+    "Product.ID": "ICTO-4647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-25463"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-17719"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-4638"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-30568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-29968"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-23847"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-12485"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-24583"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-46"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-27160"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-30924"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-17720"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-11209"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-12143"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-18845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-14499"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-20409"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-14987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-25693"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-12739"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-17464"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Certification",
+    "Product.ID": "ICTO-4647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Access Control for Shared Accounts",
+    "Product.ID": "ICTO-28197"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Management/Authorisation Capabilities",
+    "Product.ID": "ICTO-30256"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Management/Authorisation Capabilities",
+    "Product.ID": "ICTO-33970"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Management/Authorisation Capabilities",
+    "Product.ID": "ICTO-30780"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Management/Authorisation Capabilities",
+    "Product.ID": "ICTO-372"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Management/Authorisation Capabilities",
+    "Product.ID": "ICTO-623"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Management/Authorisation Capabilities",
+    "Product.ID": "ICTO-25224"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-4950"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-25463"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-17719"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-4638"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-30568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-31588"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-23847"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-12485"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-24583"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-46"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-30924"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-17720"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-12143"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-18845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-14499"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-20409"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-14987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-25693"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-25713"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-17464"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Access Request",
+    "Product.ID": "ICTO-4647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Rights Entitlement Definition / Mapping",
+    "Product.ID": "ICTO-30256"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Rights Entitlement Definition / Mapping",
+    "Product.ID": "ICTO-372"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Rights Entitlement Definition / Mapping",
+    "Product.ID": "ICTO-623"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Access Rights Entitlement Definition / Mapping",
+    "Product.ID": "ICTO-26466"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Adaptive Authentication",
+    "Product.ID": "ICTO-34124"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Application-to-Application Password Management",
+    "Product.ID": "ICTO-30802"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Governance & Design",
+    "Component": "Application/Software Threat Modelling",
+    "Product.ID": "ICTO-34012"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Automated Entitlement Assignment",
+    "Product.ID": "ICTO-30256"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Automated Entitlement Assignment",
+    "Product.ID": "ICTO-372"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Automated Entitlement Assignment",
+    "Product.ID": "ICTO-623"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Automated Entitlement Restrictions",
+    "Product.ID": "ICTO-30256"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Automated Entitlement Restrictions",
+    "Product.ID": "ICTO-372"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Clients)",
+    "Component": "Automated Entitlement Restrictions",
+    "Product.ID": "ICTO-623"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "B2B VPN-Gateway",
+    "Product.ID": "ICTO-4941"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Biometric Authentication Methods",
+    "Product.ID": "ICTO-32589"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Certificate Lifecycle Management",
+    "Product.ID": "ICTO-24002"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Certificate Lifecycle Management",
+    "Product.ID": "ICTO-30277"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Certificate Lifecycle Management",
+    "Product.ID": "ICTO-17063"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Certificate Lifecycle Management",
+    "Product.ID": "ICTO-18368"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Certificate Lifecycle Management",
+    "Product.ID": "ICTO-24899"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Certificate Lifecycle Management",
+    "Product.ID": "ICTO-18356"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-25463"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-17719"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-4638"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-30568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-29968"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-23847"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-12485"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-24583"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-27160"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-17720"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-12143"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-18845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-14499"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-20409"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-14987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-25693"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-12739"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-17464"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Certify Security Definitions",
+    "Product.ID": "ICTO-4647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Clients)",
+    "Component": "Client Identifier Generation",
+    "Product.ID": "ICTO-27159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Clients)",
+    "Component": "Client Identifier Generation",
+    "Product.ID": "ICTO-9240"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Clients)",
+    "Component": "Client Identity Request, Modification and Deletion",
+    "Product.ID": "ICTO-33033"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Clients)",
+    "Component": "Client User Onboarding and Identity Creation",
+    "Product.ID": "ICTO-30256"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Clients)",
+    "Component": "Client User Onboarding and Identity Creation",
+    "Product.ID": "ICTO-31588"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Clients)",
+    "Component": "Client User Onboarding and Identity Creation",
+    "Product.ID": "ICTO-623"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Cloud Access Security Broker (CASB)",
+    "Product.ID": "ICTO-30145"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Cloud Key Management",
+    "Product.ID": "ICTO-33565"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Cloud Key Management",
+    "Product.ID": "ICTO-30819"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Cyber Threat Intelligence",
+    "Component": "Collection",
+    "Product.ID": "ICTO-29420"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Conditional Access",
+    "Product.ID": "ICTO-31454"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Control Gap Analysis",
+    "Product.ID": "ICTO-32666"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Control Gap Analysis",
+    "Product.ID": "ICTO-28307"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Control Gap Analysis",
+    "Product.ID": "ICTO-33826"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Control Gap Analysis",
+    "Product.ID": "ICTO-34096"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Credentials",
+    "Component": "Credential Distribution (hard token, mobile registration)",
+    "Product.ID": "ICTO-372"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Document Management",
+    "Component": "Cryptographic Document Signing",
+    "Product.ID": "ICTO-17642"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Data Analytics and Machine Learning",
+    "Product.ID": "ICTO-27985"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Data Classification",
+    "Product.ID": "ICTO-34390"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Data Visibility",
+    "Product.ID": "ICTO-26224"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Protection",
+    "Component": "DDoS Protection",
+    "Product.ID": "ICTO-31326"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-25463"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-17719"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-4638"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-30568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-29968"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-23847"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-12485"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-24583"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-27160"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-30924"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-17720"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-12143"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-18845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-14499"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-20409"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-14987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-25693"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-12739"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-17464"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Define Security Definitions",
+    "Product.ID": "ICTO-4647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Detection Use Case Management",
+    "Product.ID": "ICTO-27985"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Detection Use Case Management",
+    "Product.ID": "ICTO-17669"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Physical & Device Security",
+    "Capability": "IoT Security",
+    "Component": "Device Management",
+    "Product.ID": "ICTO-33698"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Physical & Device Security",
+    "Capability": "IoT Security",
+    "Component": "Device Management",
+    "Product.ID": "ICTO-29274"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Integration",
+    "Component": "Dynamic Application Security Testing",
+    "Product.ID": "ICTO-32486"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Integration",
+    "Component": "Dynamic Application Security Testing",
+    "Product.ID": "ICTO-34084"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Integration",
+    "Component": "Dynamic Application Security Testing",
+    "Product.ID": "ICTO-33824"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "E-Discovery Software",
+    "Product.ID": "ICTO-24770"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "E-Discovery Software",
+    "Product.ID": "ICTO-29156"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Email DLP",
+    "Product.ID": "ICTO-18808"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Email DLP",
+    "Product.ID": "ICTO-31984"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Emergency Access Management (BreakGlass)",
+    "Product.ID": "ICTO-18844"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Emergency Access Management (BreakGlass)",
+    "Product.ID": "ICTO-15834"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Endpoint Detection and Response",
+    "Product.ID": "ICTO-20767"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Endpoint Detection and Response",
+    "Product.ID": "ICTO-29906"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Endpoint Detection and Response",
+    "Product.ID": "ICTO-34175"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Data Protection",
+    "Component": "Endpoint DLP",
+    "Product.ID": "ICTO-17665"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Data Protection",
+    "Component": "Endpoint DLP",
+    "Product.ID": "ICTO-30830"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Exploit Prevention and Memory Protection",
+    "Product.ID": "ICTO-17461"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Exploit Prevention and Memory Protection",
+    "Product.ID": "ICTO-17459"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Exploit Prevention and Memory Protection",
+    "Product.ID": "ICTO-17458"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Exploit Prevention and Memory Protection",
+    "Product.ID": "ICTO-29634"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Exploit Prevention and Memory Protection",
+    "Product.ID": "ICTO-15431"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity Authorization",
+    "Product.ID": "ICTO-33325"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity Authorization",
+    "Product.ID": "ICTO-17717"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity Authorization",
+    "Product.ID": "ICTO-32363"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity Authorization",
+    "Product.ID": "ICTO-27370"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity Authorization",
+    "Product.ID": "ICTO-26711"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-17700"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-32549"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-34196"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-34251"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-20582"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-32546"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-33214"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-32803"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-26711"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-32548"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-27446"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-25741"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-14094"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-33351"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-33414"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-32552"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-33350"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-33415"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-32550"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-33348"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-33561"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-32551"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Federated Identity/SSO",
+    "Product.ID": "ICTO-26466"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-33021"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-28385"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-31737"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-23768"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-29305"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-17085"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-26185"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-25956"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Forensic Investigation",
+    "Product.ID": "ICTO-24769"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Compliance",
+    "Component": "GRC",
+    "Product.ID": "ICTO-15780"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Compliance",
+    "Component": "GRC",
+    "Product.ID": "ICTO-30795"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Compliance",
+    "Component": "GRC",
+    "Product.ID": "ICTO-33905"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Hardened Build",
+    "Product.ID": "ICTO-32003"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "HSM - Extension of storage",
+    "Product.ID": "ICTO-26223"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "HSM - Extension of storage",
+    "Product.ID": "ICTO-33739"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "HSM - Request for encryption and/or key management",
+    "Product.ID": "ICTO-34276"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "HSM - Request for encryption and/or key management",
+    "Product.ID": "ICTO-33639"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "HSM - Request for encryption and/or key management",
+    "Product.ID": "ICTO-26223"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Threat Detection",
+    "Component": "IDS / IPS",
+    "Product.ID": "ICTO-23652"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Threat Detection",
+    "Component": "IDS / IPS",
+    "Product.ID": "ICTO-23645"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Incident Management / Response",
+    "Product.ID": "ICTO-32901"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Incident Management / Response",
+    "Product.ID": "ICTO-32899"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Cyber Threat Intelligence",
+    "Component": "Intelligence Analysis",
+    "Product.ID": "ICTO-31308"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Cyber Threat Intelligence",
+    "Component": "Intelligence Analysis",
+    "Product.ID": "ICTO-32622"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Cyber Threat Intelligence",
+    "Component": "Intelligence Analysis",
+    "Product.ID": "ICTO-29420"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Cyber Threat Intelligence",
+    "Component": "Intelligence Analysis",
+    "Product.ID": "ICTO-33019"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Integration",
+    "Component": "Interactive Application Security Testing",
+    "Product.ID": "ICTO-31531"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-30569"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-19301"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-27899"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-28574"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-26231"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-22695"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-27605"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-29681"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-18801"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-24091"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-24436"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-25845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-19889"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-23946"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-12889"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-28369"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-20651"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "IRM Classification & Encryption",
+    "Product.ID": "ICTO-26868"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-25463"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-17719"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-4638"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-30568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-23847"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-12485"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-24583"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-46"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-27160"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-30924"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-17720"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-12143"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-18845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-14499"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-20409"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-14987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-25693"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-12739"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-17464"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Joiner/Mover/Leaver Control Implementation",
+    "Product.ID": "ICTO-4647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Lessons Learned",
+    "Product.ID": "ICTO-32267"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Lessons Learned",
+    "Product.ID": "ICTO-31984"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Log Aggregation and Management",
+    "Product.ID": "ICTO-33120"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Log Aggregation and Management",
+    "Product.ID": "ICTO-32487"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Log Aggregation and Management",
+    "Product.ID": "ICTO-26375"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Log Aggregation and Management",
+    "Product.ID": "ICTO-17669"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Protection",
+    "Component": "Macro-Segmentation",
+    "Product.ID": "ICTO-23652"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Malware Analysis",
+    "Product.ID": "ICTO-33018"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Malware Analysis",
+    "Product.ID": "ICTO-33650"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Malware Analysis",
+    "Product.ID": "ICTO-33647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Malware Analysis",
+    "Product.ID": "ICTO-32271"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Detection & Response",
+    "Component": "Malware Analysis",
+    "Product.ID": "ICTO-34291"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Protection",
+    "Component": "Micro-Segmentation",
+    "Product.ID": "ICTO-33397"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Mobile Policy Enforcement",
+    "Product.ID": "ICTO-34168"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Mobile Policy Enforcement",
+    "Product.ID": "ICTO-34169"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Multi-factor Authentication",
+    "Product.ID": "ICTO-28593"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Multi-factor Authentication",
+    "Product.ID": "ICTO-26091"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Multi-factor Authentication",
+    "Product.ID": "ICTO-9555"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Multi-factor Authentication",
+    "Product.ID": "ICTO-33460"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Multi-factor Authentication",
+    "Product.ID": "ICTO-14342"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Multi-factor Authentication",
+    "Product.ID": "ICTO-33240"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Multi-factor Authentication",
+    "Product.ID": "ICTO-18377"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Network Access Control",
+    "Product.ID": "ICTO-26036"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Network Access Control",
+    "Product.ID": "ICTO-23154"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Network Access Control",
+    "Product.ID": "ICTO-20602"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Visibility",
+    "Component": "Network Analysis and Visibility",
+    "Product.ID": "ICTO-34039"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Threat Detection",
+    "Component": "Network Anti-Malware Scanning",
+    "Product.ID": "ICTO-33495"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-23229"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-4254"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-23159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-30466"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-4181"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-32301"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-17498"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Network Security Configuration Management",
+    "Product.ID": "ICTO-28394"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Nonstandard Application Enablement",
+    "Product.ID": "ICTO-32208"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Credentials",
+    "Component": "Password Management",
+    "Product.ID": "ICTO-18844"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Credentials",
+    "Component": "Password Management",
+    "Product.ID": "ICTO-372"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Credentials",
+    "Component": "Password Management",
+    "Product.ID": "ICTO-28568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Phishing and Spam Detection",
+    "Product.ID": "ICTO-34095"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Phishing and Spam Detection",
+    "Product.ID": "ICTO-31175"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Phishing and Spam Detection",
+    "Product.ID": "ICTO-25594"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Physical & Device Security",
+    "Capability": "Physical Access Systems",
+    "Component": "Physical Access Systems - PIAM",
+    "Product.ID": "ICTO-12383"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Protection",
+    "Component": "Physical Firewall Boundary",
+    "Product.ID": "ICTO-23652"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Protection",
+    "Component": "Physical Firewall Boundary",
+    "Product.ID": "ICTO-19628"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Credentials",
+    "Component": "PKI Management",
+    "Product.ID": "ICTO-30829"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Credentials",
+    "Component": "PKI Management",
+    "Product.ID": "ICTO-18380"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-4950"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-25463"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-17719"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-4638"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-30568"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-29968"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-31588"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-23847"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-12485"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-24583"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-46"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-30924"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-17720"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-12143"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-18845"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-14499"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-20409"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-14987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-25693"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-12739"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-23154"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-17464"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Access Management and Governance (Workforce)",
+    "Component": "Policy Enforcement",
+    "Product.ID": "ICTO-4647"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Data Protection",
+    "Component": "Preboot OS-level encryption of physical or virtual device",
+    "Product.ID": "ICTO-30030"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Privilege Elevation and Delegation Management",
+    "Product.ID": "ICTO-26428"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Privilege Elevation and Delegation Management",
+    "Product.ID": "ICTO-32534"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Privileged Access Review (PAR)",
+    "Product.ID": "ICTO-18844"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Privileged Access Review (PAR)",
+    "Product.ID": "ICTO-26377"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Privileged Access Review (PAR)",
+    "Product.ID": "ICTO-26006"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Privileged Access Review (PAR)",
+    "Product.ID": "ICTO-33262"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Development",
+    "Component": "Process, Integration & Orchestration",
+    "Product.ID": "ICTO-34085"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33440"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33433"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33439"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-32272"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33434"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33435"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-31996"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-32060"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33436"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33437"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Red Teaming",
+    "Product.ID": "ICTO-33438"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Integration",
+    "Component": "Release Management",
+    "Product.ID": "ICTO-34107"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-33416"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-32266"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-27370"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-26091"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-9555"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-29980"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-27699"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-19541"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "Reverse Proxy Gateway",
+    "Product.ID": "ICTO-17714"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Risk",
+    "Component": "Risk Culture",
+    "Product.ID": "ICTO-34269"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Risk",
+    "Component": "Risk Culture",
+    "Product.ID": "ICTO-31418"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Fusion",
+    "Component": "Risk Engine",
+    "Product.ID": "ICTO-34292"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Risk",
+    "Component": "Risk Management",
+    "Product.ID": "ICTO-32563"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Risk",
+    "Component": "Risk Management",
+    "Product.ID": "ICTO-33905"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authorisation",
+    "Component": "Role-based authorisation",
+    "Product.ID": "ICTO-18844"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Environment",
+    "Component": "Root Cause Analysis",
+    "Product.ID": "ICTO-33825"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authorisation",
+    "Component": "Rule-based authorisation",
+    "Product.ID": "ICTO-20090"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Encryption & Key Management",
+    "Component": "Secrets Management",
+    "Product.ID": "ICTO-32629"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Credentials",
+    "Component": "Secrets Management - IDAM Specific",
+    "Product.ID": "ICTO-34338"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Secure Configuration Scanning",
+    "Product.ID": "ICTO-31122"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Secure Configuration Scanning",
+    "Product.ID": "ICTO-19076"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Secure Configuration Scanning",
+    "Product.ID": "ICTO-33159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Secure Configuration Scanning",
+    "Product.ID": "ICTO-23429"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Governance",
+    "Component": "Security Assurance",
+    "Product.ID": "ICTO-31061"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Governance",
+    "Component": "Security Assurance",
+    "Product.ID": "ICTO-32988"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Governance",
+    "Component": "Security Assurance",
+    "Product.ID": "ICTO-34275"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "GRC",
+    "Capability": "Governance",
+    "Component": "Security Assurance",
+    "Product.ID": "ICTO-20667"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Network Security Management",
+    "Component": "Security Configuration Check",
+    "Product.ID": "ICTO-24835"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Security Incident and Event Management (SIEM)",
+    "Product.ID": "ICTO-34007"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "Security Incident and Event Management (SIEM)",
+    "Product.ID": "ICTO-33158"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Discovery",
+    "Component": "Sensitive Data Discovery",
+    "Product.ID": "ICTO-32466"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Session Management",
+    "Product.ID": "ICTO-18844"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Single Sign On (SSO)",
+    "Product.ID": "ICTO-32547"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Single Sign On (SSO)",
+    "Product.ID": "ICTO-26711"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Single Sign On (SSO)",
+    "Product.ID": "ICTO-9555"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Application Security",
+    "Capability": "Secure Integration",
+    "Component": "Static Application Security Testing",
+    "Product.ID": "ICTO-33850"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-13834"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-26629"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-19965"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-29637"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-12889"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-26341"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-31755"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-25755"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Structured Data Security",
+    "Component": "Structured Data Encryption",
+    "Product.ID": "ICTO-31985"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Temporary Privileged Access (Planned & Unplanned)",
+    "Product.ID": "ICTO-31023"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Temporary Privileged Access (Planned & Unplanned)",
+    "Product.ID": "ICTO-31454"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Temporary Privileged Access (Planned & Unplanned)",
+    "Product.ID": "ICTO-18844"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Temporary Privileged Access (Planned & Unplanned)",
+    "Product.ID": "ICTO-30703"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Temporary Privileged Access (Planned & Unplanned)",
+    "Product.ID": "ICTO-27160"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Temporary Privileged Access (Planned & Unplanned)",
+    "Product.ID": "ICTO-31055"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Privilege Access Management",
+    "Component": "Temporary Privileged Access (Planned & Unplanned)",
+    "Product.ID": "ICTO-33263"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Third-Party Integration (API ext)",
+    "Product.ID": "ICTO-24526"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Threat Defence Analysis",
+    "Component": "Threat Modelling",
+    "Product.ID": "ICTO-31296"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Token Management",
+    "Product.ID": "ICTO-19300"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Token Management",
+    "Product.ID": "ICTO-28059"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Token Management",
+    "Product.ID": "ICTO-4671"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Token Management",
+    "Product.ID": "ICTO-29422"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Token Management",
+    "Product.ID": "ICTO-29423"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Authentication and Federation",
+    "Component": "Token Management",
+    "Product.ID": "ICTO-28062"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Unauthorised Asset Detection",
+    "Product.ID": "ICTO-33668"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-13834"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-26629"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-19965"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-19964"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-29637"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-17727"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-12889"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-26341"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-31755"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-25755"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Unstructured Data Security",
+    "Component": "Unstructured Data Encryption",
+    "Product.ID": "ICTO-31985"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-33225"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-32443"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-23159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-26204"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-20167"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-28394"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-18749"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Network Security",
+    "Capability": "Secure Network and Internet Access",
+    "Component": "URL Restriction",
+    "Product.ID": "ICTO-18751"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "User Entity and Behaviour Analysis",
+    "Product.ID": "ICTO-32007"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "User Entity and Behaviour Analysis",
+    "Product.ID": "ICTO-30585"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Analytics",
+    "Component": "User Entity and Behaviour Analysis",
+    "Product.ID": "ICTO-32172"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Vulnerability Assessment and Management",
+    "Product.ID": "ICTO-31247"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "End User System Security",
+    "Capability": "Endpoint Protection",
+    "Component": "Vulnerability Assessment and Management",
+    "Product.ID": "ICTO-17574"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Vulnerability Scanning",
+    "Product.ID": "ICTO-32648"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Vulnerability Scanning",
+    "Product.ID": "ICTO-31122"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Vulnerability Scanning",
+    "Product.ID": "ICTO-33020"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Vulnerability Scanning",
+    "Product.ID": "ICTO-4359"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Vulnerability Scanning",
+    "Product.ID": "ICTO-30321"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Attack Surface Reduction",
+    "Component": "Vulnerability Scanning",
+    "Product.ID": "ICTO-26502"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Web DLP",
+    "Product.ID": "ICTO-27140"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Web DLP",
+    "Product.ID": "ICTO-18808"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Web DLP",
+    "Product.ID": "ICTO-33271"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Data Protection",
+    "Capability": "Data Usage Monitoring",
+    "Component": "Web DLP",
+    "Product.ID": "ICTO-32912"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Orchestration and Automation",
+    "Component": "Workflow and Automation",
+    "Product.ID": "ICTO-32273"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Cyber Security",
+    "Capability": "Security Orchestration and Automation",
+    "Component": "Workflow and Automation",
+    "Product.ID": "ICTO-31297"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identifier Generation (Internal Users)",
+    "Product.ID": "ICTO-27159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identifier Generation (Internal Users)",
+    "Product.ID": "ICTO-9240"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identifier Generation (Internal Users)",
+    "Product.ID": "ICTO-9519"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-30256"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-31023"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-24629"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-26815"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-29622"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-372"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-31987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-17861"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-29596"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity and Access Object Distribution",
+    "Product.ID": "ICTO-9525"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Lifecycle Management and Identity Data Provision",
+    "Product.ID": "ICTO-27159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Lifecycle Management and Identity Data Provision",
+    "Product.ID": "ICTO-9240"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Lifecycle Management and Identity Data Provision",
+    "Product.ID": "ICTO-31987"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Lifecycle Management and Identity Data Provision",
+    "Product.ID": "ICTO-19493"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Lifecycle Management and Identity Data Provision",
+    "Product.ID": "ICTO-32530"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Lifecycle Management and Identity Data Provision",
+    "Product.ID": "ICTO-32380"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Lifecycle Management and Identity Data Provision",
+    "Product.ID": "ICTO-34174"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Provisioning",
+    "Product.ID": "ICTO-30256"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Provisioning",
+    "Product.ID": "ICTO-26815"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Provisioning",
+    "Product.ID": "ICTO-29622"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Provisioning",
+    "Product.ID": "ICTO-27159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Provisioning",
+    "Product.ID": "ICTO-9240"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-17700"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-32590"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-24629"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-27446"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-12419"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-11383"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-17718"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-25741"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-14094"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-33226"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-34148"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-33269"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-33270"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-33268"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-33267"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Repository",
+    "Product.ID": "ICTO-26466"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Request, Modification and Deletion",
+    "Product.ID": "ICTO-32108"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Request, Modification and Deletion",
+    "Product.ID": "ICTO-27159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Request, Modification and Deletion",
+    "Product.ID": "ICTO-9240"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce Identity Request, Modification and Deletion",
+    "Product.ID": "ICTO-9519"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce User Onboarding and Identity Creation",
+    "Product.ID": "ICTO-27159"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce User Onboarding and Identity Creation",
+    "Product.ID": "ICTO-9240"
+  },
+  {
+    "Domain": "Security",
+    "SubDomain": "Identity & Access Management",
+    "Capability": "Identity Management (Workforce)",
+    "Component": "Workforce User Onboarding and Identity Creation",
+    "Product.ID": "ICTO-9519"
+  }
+]
