@@ -5,9 +5,10 @@
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
   </head>
   <body>
+    Test visualisation
     <div id="vis"></div>
-    <script type="text/javascript">
-      var specification = {
+        <script type="text/javascript">
+            var specification = {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "width": 500,
         "height": 500,
@@ -62,10 +63,10 @@
         ]
       };
 
-      var opt = {mode: "vega"};
-      vega.embed("#vis", specification, opt, function(error, result) {
-        // Handle errors and result
-      });
-    </script>
+            var opt = {mode: "vega"};
+            vega.embed("#vis", specification, opt, function(error, result) {
+            // Handle errors and result
+            });
+        </script>
   </body>
 </html>
