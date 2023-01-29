@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+  </head>
+  <body>
+    <div id="vis"></div>
+    <script type="text/javascript">
+      var specification = {
+        "$schema": "https://vega.github.io/schema/vega/v5.json",
+        "width": 500,
+        "height": 500,
+        "data": [
+          {
+            "name": "table",
+            "values": [
+              {"x": 1, "y": 28},
+              {"x": 2, "y": 55},
+              {"x": 3, "y": 43},
+              {"x": 4, "y": 91},
+              {"x": 5, "y": 81},
+              {"x": 6, "y": 53}
+            ]
+          }
+        ],
+        "marks": [
+          {
+            "type": "rect",
+            "from": {"data": "table"},
+            "encode": {
+              "enter": {
+                "x": {"scale": "x", "field": "x"},
+                "width": {"scale": "x", "band": 1},
+                "y": {"scale": "y", "field": "y"},
+                "y2": {"scale": "y", "value": 0}
+              },
+              "update": {
+                "fill": {"value": "steelblue"}
+              },
+              "hover": {
+                "fill": {"value": "red"}
+              }
+            }
+          }
+        ],
+        "scales": [
+          {
+            "name": "x",
+            "type": "band",
+            "domain": {"data": "table", "field": "x"},
+            "range": "width"
+          },
+          {
+            "name": "y",
+            "type": "linear",
+            "domain": {"data": "table", "field": "y"},
+            "range": "height",
+            "nice": true,
+            "zero": true
+          }
+        ]
+      };
+
+      var opt = {mode: "vega"};
+      vega.embed("#vis", specification, opt, function(error, result) {
+        // Handle errors and result
+      });
+    </script>
+  </body>
+</html>
