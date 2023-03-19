@@ -1,0 +1,7 @@
+@startuml
+autonumber
+
+WebUI -> API ++ #Gold: request content 
+API --[#Red]> WebUI -- : 401 "No valid token" 
+
+@enduml

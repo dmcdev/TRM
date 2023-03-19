@@ -1,0 +1,8 @@
+@startjson
+{
+   "fruit":"Apple",
+   "size":"Large",
+   "color": ["Red", "Green"],
+   "origin": ["England","France","Spain"]
+}
+@endjson

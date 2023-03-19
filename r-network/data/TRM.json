@@ -1220,14 +1220,14 @@
   {
     "Domain": "Security",
     "SubDomain": "End User System Security",
-    "Capability": "Data Protection",
+    "Capability": "EUC Data Protection",
     "Component": "Endpoint DLP",
     "Product.ID": "ICTO-17665"
   },
   {
     "Domain": "Security",
     "SubDomain": "End User System Security",
-    "Capability": "Data Protection",
+    "Capability": "EUC Data Protection",
     "Component": "Endpoint DLP",
     "Product.ID": "ICTO-30830"
   },
