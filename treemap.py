@@ -5,7 +5,7 @@ import squarify  # you might need to install this package
 
 # Load your CSV data
 # Replace 'your_data.csv' with the path to your CSV file
-df = pd.read_csv('data.csv')
+df = pd.read_csv ('data.csv')
 
 # Transform data into a hierarchical structure
 hierarchy = df.groupby(['Category', 'Subcategory', 'Product']).size().reset_index(name='Counts')
