@@ -1,0 +1,2686 @@
+[
+    {
+        "name":"Security",
+        "parent":""
+    },
+    {
+        "name": "Data Protection",
+        "parent": "Security"
+    },
+    {
+        "name": "Data Usage Monitoring",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "3rd Party DLP",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-11221",
+        "parent": "3rd Party DLP"
+    },
+    {
+        "name": "Identity & Access Management",
+        "parent": "Security"
+    },
+    {
+        "name": "Access Management and Governance (Workforce)",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Access Approval",
+        "parent": "Access Management and Governance (Workforce)"
+    },
+    {
+        "name": "ProdID-4950",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-25463",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-17719",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-4638",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-30568",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-31588",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-23847",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-12485",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-24583",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-46",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-30924",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-400",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-17720",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-12143",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-18845",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-14499",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-20409",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-14987",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-25693",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-17464",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "ProdID-4647",
+        "parent": "Access Approval"
+    },
+    {
+        "name": "Access Certification",
+        "parent": "Access Management and Governance (Workforce)"
+    },
+    {
+        "name": "ProdID-25463",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-17719",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-4638",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-30568",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-29968",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-23847",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-12485",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-24583",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-46",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-27160",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-30924",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-17720",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-11209",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-12143",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-18845",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-14499",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-20409",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-14987",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-25693",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-12739",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-17464",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "ProdID-4647",
+        "parent": "Access Certification"
+    },
+    {
+        "name": "Privilege Access Management",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Access Control for Shared Accounts",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-28197",
+        "parent": "Access Control for Shared Accounts"
+    },
+    {
+        "name": "Access Management and Governance (Clients)",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Access Management/Authorisation Capabilities",
+        "parent": "Access Management and Governance (Clients)"
+    },
+    {
+        "name": "ProdID-30256",
+        "parent": "Access Management/Authorisation Capabilities"
+    },
+    {
+        "name": "ProdID-33970",
+        "parent": "Access Management/Authorisation Capabilities"
+    },
+    {
+        "name": "ProdID-30780",
+        "parent": "Access Management/Authorisation Capabilities"
+    },
+    {
+        "name": "ProdID-372",
+        "parent": "Access Management/Authorisation Capabilities"
+    },
+    {
+        "name": "ProdID-623",
+        "parent": "Access Management/Authorisation Capabilities"
+    },
+    {
+        "name": "ProdID-25224",
+        "parent": "Access Management/Authorisation Capabilities"
+    },
+    {
+        "name": "Access Request",
+        "parent": "Access Management and Governance (Workforce)"
+    },
+    {
+        "name": "ProdID-4950",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-25463",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-17719",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-4638",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-30568",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-31588",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-23847",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-12485",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-24583",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-46",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-30924",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-17720",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-12143",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-18845",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-14499",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-20409",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-14987",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-25693",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-25713",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-17464",
+        "parent": "Access Request"
+    },
+    {
+        "name": "ProdID-4647",
+        "parent": "Access Request"
+    },
+    {
+        "name": "Access Rights Entitlement Definition / Mapping",
+        "parent": "Access Management and Governance (Clients)"
+    },
+    {
+        "name": "ProdID-30256",
+        "parent": "Access Rights Entitlement Definition / Mapping"
+    },
+    {
+        "name": "ProdID-372",
+        "parent": "Access Rights Entitlement Definition / Mapping"
+    },
+    {
+        "name": "ProdID-623",
+        "parent": "Access Rights Entitlement Definition / Mapping"
+    },
+    {
+        "name": "ProdID-26466",
+        "parent": "Access Rights Entitlement Definition / Mapping"
+    },
+    {
+        "name": "Authentication and Federation",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Adaptive Authentication",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-34124",
+        "parent": "Adaptive Authentication"
+    },
+    {
+        "name": "Application-to-Application Password Management",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-30802",
+        "parent": "Application-to-Application Password Management"
+    },
+    {
+        "name": "Application Security",
+        "parent": "Security"
+    },
+    {
+        "name": "Governance & Design",
+        "parent": "Application Security"
+    },
+    {
+        "name": "Application/Software Threat Modelling",
+        "parent": "Governance & Design"
+    },
+    {
+        "name": "ProdID-34012",
+        "parent": "Application/Software Threat Modelling"
+    },
+    {
+        "name": "Automated Entitlement Assignment",
+        "parent": "Access Management and Governance (Clients)"
+    },
+    {
+        "name": "ProdID-30256",
+        "parent": "Automated Entitlement Assignment"
+    },
+    {
+        "name": "ProdID-372",
+        "parent": "Automated Entitlement Assignment"
+    },
+    {
+        "name": "ProdID-623",
+        "parent": "Automated Entitlement Assignment"
+    },
+    {
+        "name": "Automated Entitlement Restrictions",
+        "parent": "Access Management and Governance (Clients)"
+    },
+    {
+        "name": "ProdID-30256",
+        "parent": "Automated Entitlement Restrictions"
+    },
+    {
+        "name": "ProdID-372",
+        "parent": "Automated Entitlement Restrictions"
+    },
+    {
+        "name": "ProdID-623",
+        "parent": "Automated Entitlement Restrictions"
+    },
+    {
+        "name": "Network Security",
+        "parent": "Security"
+    },
+    {
+        "name": "Secure Network and Internet Access",
+        "parent": "Network Security"
+    },
+    {
+        "name": "B2B VPN-Gateway",
+        "parent": "Secure Network and Internet Access"
+    },
+    {
+        "name": "ProdID-4941",
+        "parent": "B2B VPN-Gateway"
+    },
+    {
+        "name": "Biometric Authentication Methods",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-32589",
+        "parent": "Biometric Authentication Methods"
+    },
+    {
+        "name": "Encryption & Key Management",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "Certificate Lifecycle Management",
+        "parent": "Encryption & Key Management"
+    },
+    {
+        "name": "ProdID-24002",
+        "parent": "Certificate Lifecycle Management"
+    },
+    {
+        "name": "ProdID-30277",
+        "parent": "Certificate Lifecycle Management"
+    },
+    {
+        "name": "ProdID-17063",
+        "parent": "Certificate Lifecycle Management"
+    },
+    {
+        "name": "ProdID-18368",
+        "parent": "Certificate Lifecycle Management"
+    },
+    {
+        "name": "ProdID-24899",
+        "parent": "Certificate Lifecycle Management"
+    },
+    {
+        "name": "ProdID-18356",
+        "parent": "Certificate Lifecycle Management"
+    },
+    {
+        "name": "Certify Security Definitions",
+        "parent": "Access Management and Governance (Workforce)"
+    },
+    {
+        "name": "ProdID-25463",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-17719",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-4638",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-30568",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-29968",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-23847",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-12485",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-24583",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-27160",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-17720",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-12143",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-18845",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-14499",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-20409",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-14987",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-25693",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-12739",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-17464",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "ProdID-4647",
+        "parent": "Certify Security Definitions"
+    },
+    {
+        "name": "Identity Management (Clients)",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Client Identifier Generation",
+        "parent": "Identity Management (Clients)"
+    },
+    {
+        "name": "ProdID-27159",
+        "parent": "Client Identifier Generation"
+    },
+    {
+        "name": "ProdID-9240",
+        "parent": "Client Identifier Generation"
+    },
+    {
+        "name": "Client Identity Request, Modification and Deletion",
+        "parent": "Identity Management (Clients)"
+    },
+    {
+        "name": "ProdID-33033",
+        "parent": "Client Identity Request, Modification and Deletion"
+    },
+    {
+        "name": "Client User Onboarding and Identity Creation",
+        "parent": "Identity Management (Clients)"
+    },
+    {
+        "name": "ProdID-30256",
+        "parent": "Client User Onboarding and Identity Creation"
+    },
+    {
+        "name": "ProdID-31588",
+        "parent": "Client User Onboarding and Identity Creation"
+    },
+    {
+        "name": "ProdID-623",
+        "parent": "Client User Onboarding and Identity Creation"
+    },
+    {
+        "name": "Cloud Access Security Broker (CASB)",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-30145",
+        "parent": "Cloud Access Security Broker (CASB)"
+    },
+    {
+        "name": "Cloud Key Management",
+        "parent": "Encryption & Key Management"
+    },
+    {
+        "name": "ProdID-33565",
+        "parent": "Cloud Key Management"
+    },
+    {
+        "name": "ProdID-30819",
+        "parent": "Cloud Key Management"
+    },
+    {
+        "name": "Cyber Security",
+        "parent": "Security"
+    },
+    {
+        "name": "Cyber Threat Intelligence",
+        "parent": "Cyber Security"
+    },
+    {
+        "name": "Collection",
+        "parent": "Cyber Threat Intelligence"
+    },
+    {
+        "name": "ProdID-29420",
+        "parent": "Collection"
+    },
+    {
+        "name": "Conditional Access",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-31454",
+        "parent": "Conditional Access"
+    },
+    {
+        "name": "Threat Defence Analysis",
+        "parent": "Cyber Security"
+    },
+    {
+        "name": "Control Gap Analysis",
+        "parent": "Threat Defence Analysis"
+    },
+    {
+        "name": "ProdID-32666",
+        "parent": "Control Gap Analysis"
+    },
+    {
+        "name": "ProdID-28307",
+        "parent": "Control Gap Analysis"
+    },
+    {
+        "name": "ProdID-33826",
+        "parent": "Control Gap Analysis"
+    },
+    {
+        "name": "ProdID-34096",
+        "parent": "Control Gap Analysis"
+    },
+    {
+        "name": "Credentials",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Credential Distribution (hard token, mobile registration)",
+        "parent": "Credentials"
+    },
+    {
+        "name": "ProdID-372",
+        "parent": "Credential Distribution (hard token, mobile registration)"
+    },
+    {
+        "name": "Document Management",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "Cryptographic Document Signing",
+        "parent": "Document Management"
+    },
+    {
+        "name": "ProdID-17642",
+        "parent": "Cryptographic Document Signing"
+    },
+    {
+        "name": "Security Analytics",
+        "parent": "Cyber Security"
+    },
+    {
+        "name": "Data Analytics and Machine Learning",
+        "parent": "Security Analytics"
+    },
+    {
+        "name": "ProdID-27985",
+        "parent": "Data Analytics and Machine Learning"
+    },
+    {
+        "name": "Data Classification",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-34390",
+        "parent": "Data Classification"
+    },
+    {
+        "name": "Data Visibility",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-26224",
+        "parent": "Data Visibility"
+    },
+    {
+        "name": "Network Protection",
+        "parent": "Network Security"
+    },
+    {
+        "name": "DDoS Protection",
+        "parent": "Network Protection"
+    },
+    {
+        "name": "ProdID-31326",
+        "parent": "DDoS Protection"
+    },
+    {
+        "name": "Define Security Definitions",
+        "parent": "Access Management and Governance (Workforce)"
+    },
+    {
+        "name": "ProdID-25463",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-17719",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-4638",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-30568",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-29968",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-23847",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-12485",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-24583",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-27160",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-30924",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-17720",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-12143",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-18845",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-14499",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-20409",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-14987",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-25693",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-12739",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-17464",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "ProdID-4647",
+        "parent": "Define Security Definitions"
+    },
+    {
+        "name": "Detection Use Case Management",
+        "parent": "Security Analytics"
+    },
+    {
+        "name": "ProdID-27985",
+        "parent": "Detection Use Case Management"
+    },
+    {
+        "name": "ProdID-17669",
+        "parent": "Detection Use Case Management"
+    },
+    {
+        "name": "Physical & Device Security",
+        "parent": "Security"
+    },
+    {
+        "name": "IoT Security",
+        "parent": "Physical & Device Security"
+    },
+    {
+        "name": "Device Management",
+        "parent": "IoT Security"
+    },
+    {
+        "name": "ProdID-33698",
+        "parent": "Device Management"
+    },
+    {
+        "name": "ProdID-29274",
+        "parent": "Device Management"
+    },
+    {
+        "name": "Secure Integration",
+        "parent": "Application Security"
+    },
+    {
+        "name": "Dynamic Application Security Testing",
+        "parent": "Secure Integration"
+    },
+    {
+        "name": "ProdID-32486",
+        "parent": "Dynamic Application Security Testing"
+    },
+    {
+        "name": "ProdID-34084",
+        "parent": "Dynamic Application Security Testing"
+    },
+    {
+        "name": "ProdID-33824",
+        "parent": "Dynamic Application Security Testing"
+    },
+    {
+        "name": "E-Discovery Software",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-24770",
+        "parent": "E-Discovery Software"
+    },
+    {
+        "name": "ProdID-29156",
+        "parent": "E-Discovery Software"
+    },
+    {
+        "name": "Email DLP",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-18808",
+        "parent": "Email DLP"
+    },
+    {
+        "name": "ProdID-31984",
+        "parent": "Email DLP"
+    },
+    {
+        "name": "Emergency Access Management (BreakGlass)",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-18844",
+        "parent": "Emergency Access Management (BreakGlass)"
+    },
+    {
+        "name": "ProdID-15834",
+        "parent": "Emergency Access Management (BreakGlass)"
+    },
+    {
+        "name": "Threat Detection & Response",
+        "parent": "Cyber Security"
+    },
+    {
+        "name": "Endpoint Detection and Response",
+        "parent": "Threat Detection & Response"
+    },
+    {
+        "name": "ProdID-20767",
+        "parent": "Endpoint Detection and Response"
+    },
+    {
+        "name": "ProdID-29906",
+        "parent": "Endpoint Detection and Response"
+    },
+    {
+        "name": "ProdID-34175",
+        "parent": "Endpoint Detection and Response"
+    },
+    {
+        "name": "End User System Security",
+        "parent": "Security"
+    },
+    {
+        "name": "EUS Data Protection",
+        "parent": "End User System Security"
+    },
+    {
+        "name": "Endpoint DLP",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "ProdID-17665",
+        "parent": "Endpoint DLP"
+    },
+    {
+        "name": "ProdID-30830",
+        "parent": "Endpoint DLP"
+    },
+    {
+        "name": "Exploit Prevention and Memory Protection",
+        "parent": "Threat Detection & Response"
+    },
+    {
+        "name": "ProdID-17461",
+        "parent": "Exploit Prevention and Memory Protection"
+    },
+    {
+        "name": "ProdID-17459",
+        "parent": "Exploit Prevention and Memory Protection"
+    },
+    {
+        "name": "ProdID-17458",
+        "parent": "Exploit Prevention and Memory Protection"
+    },
+    {
+        "name": "ProdID-29634",
+        "parent": "Exploit Prevention and Memory Protection"
+    },
+    {
+        "name": "ProdID-15431",
+        "parent": "Exploit Prevention and Memory Protection"
+    },
+    {
+        "name": "Federated Identity Authorization",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-33325",
+        "parent": "Federated Identity Authorization"
+    },
+    {
+        "name": "ProdID-17717",
+        "parent": "Federated Identity Authorization"
+    },
+    {
+        "name": "ProdID-32363",
+        "parent": "Federated Identity Authorization"
+    },
+    {
+        "name": "ProdID-27370",
+        "parent": "Federated Identity Authorization"
+    },
+    {
+        "name": "ProdID-26711",
+        "parent": "Federated Identity Authorization"
+    },
+    {
+        "name": "Federated Identity/SSO",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-17700",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-32549",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-34196",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-34251",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-20582",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-32546",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-33214",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-32803",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-26711",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-32548",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-27446",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-25741",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-14094",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-33351",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-33414",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-32552",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-33350",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-33415",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-32550",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-33348",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-33561",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-32551",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "ProdID-26466",
+        "parent": "Federated Identity/SSO"
+    },
+    {
+        "name": "Forensic Investigation",
+        "parent": "Threat Detection & Response"
+    },
+    {
+        "name": "ProdID-33021",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-28385",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-31737",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-23768",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-29305",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-17085",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-26185",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-25956",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "ProdID-24769",
+        "parent": "Forensic Investigation"
+    },
+    {
+        "name": "GRC",
+        "parent": "Security"
+    },
+    {
+        "name": "Compliance",
+        "parent": "GRC"
+    },
+    {
+        "name": "Governance, Risk, and Compliance",
+        "parent": "Compliance"
+    },
+    {
+        "name": "ProdID-15780",
+        "parent": "GRC"
+    },
+    {
+        "name": "ProdID-30795",
+        "parent": "GRC"
+    },
+    {
+        "name": "ProdID-33905",
+        "parent": "GRC"
+    },
+    {
+        "name": "Endpoint Protection",
+        "parent": "End User System Security"
+    },
+    {
+        "name": "Hardened Build",
+        "parent": "Endpoint Protection"
+    },
+    {
+        "name": "ProdID-32003",
+        "parent": "Hardened Build"
+    },
+    {
+        "name": "HSM - Extension of storage",
+        "parent": "Encryption & Key Management"
+    },
+    {
+        "name": "ProdID-26223",
+        "parent": "HSM - Extension of storage"
+    },
+    {
+        "name": "ProdID-33739",
+        "parent": "HSM - Extension of storage"
+    },
+    {
+        "name": "HSM - Request for encryption and/or key management",
+        "parent": "Encryption & Key Management"
+    },
+    {
+        "name": "ProdID-34276",
+        "parent": "HSM - Request for encryption and/or key management"
+    },
+    {
+        "name": "ProdID-33639",
+        "parent": "HSM - Request for encryption and/or key management"
+    },
+    {
+        "name": "ProdID-26223",
+        "parent": "HSM - Request for encryption and/or key management"
+    },
+    {
+        "name": "Network Threat Detection",
+        "parent": "Network Security"
+    },
+    {
+        "name": "IDS / IPS",
+        "parent": "Network Threat Detection"
+    },
+    {
+        "name": "ProdID-23652",
+        "parent": "IDS / IPS"
+    },
+    {
+        "name": "ProdID-23645",
+        "parent": "IDS / IPS"
+    },
+    {
+        "name": "Incident Management / Response",
+        "parent": "Threat Detection & Response"
+    },
+    {
+        "name": "ProdID-32901",
+        "parent": "Incident Management / Response"
+    },
+    {
+        "name": "ProdID-32899",
+        "parent": "Incident Management / Response"
+    },
+    {
+        "name": "Intelligence Analysis",
+        "parent": "Cyber Threat Intelligence"
+    },
+    {
+        "name": "ProdID-31308",
+        "parent": "Intelligence Analysis"
+    },
+    {
+        "name": "ProdID-32622",
+        "parent": "Intelligence Analysis"
+    },
+    {
+        "name": "ProdID-29420",
+        "parent": "Intelligence Analysis"
+    },
+    {
+        "name": "ProdID-33019",
+        "parent": "Intelligence Analysis"
+    },
+    {
+        "name": "Interactive Application Security Testing",
+        "parent": "Secure Integration"
+    },
+    {
+        "name": "ProdID-31531",
+        "parent": "Interactive Application Security Testing"
+    },
+    {
+        "name": "IRM Classification & Encryption",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-30569",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-19301",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-27899",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-28574",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-26231",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-22695",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-27605",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-29681",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-18801",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-24091",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-24436",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-25845",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-19889",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-23946",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-12889",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-28369",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-20651",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "ProdID-26868",
+        "parent": "IRM Classification & Encryption"
+    },
+    {
+        "name": "Joiner/Mover/Leaver Control Implementation",
+        "parent": "Access Management and Governance (Workforce)"
+    },
+    {
+        "name": "ProdID-25463",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-17719",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-4638",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-30568",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-23847",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-12485",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-24583",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-46",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-27160",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-30924",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-17720",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-12143",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-18845",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-14499",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-20409",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-14987",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-25693",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-12739",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-17464",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "ProdID-4647",
+        "parent": "Joiner/Mover/Leaver Control Implementation"
+    },
+    {
+        "name": "Lessons Learned",
+        "parent": "Threat Detection & Response"
+    },
+    {
+        "name": "ProdID-32267",
+        "parent": "Lessons Learned"
+    },
+    {
+        "name": "ProdID-31984",
+        "parent": "Lessons Learned"
+    },
+    {
+        "name": "Log Aggregation and Management",
+        "parent": "Security Analytics"
+    },
+    {
+        "name": "ProdID-33120",
+        "parent": "Log Aggregation and Management"
+    },
+    {
+        "name": "ProdID-32487",
+        "parent": "Log Aggregation and Management"
+    },
+    {
+        "name": "ProdID-26375",
+        "parent": "Log Aggregation and Management"
+    },
+    {
+        "name": "ProdID-17669",
+        "parent": "Log Aggregation and Management"
+    },
+    {
+        "name": "Macro-Segmentation",
+        "parent": "Network Protection"
+    },
+    {
+        "name": "ProdID-23652",
+        "parent": "Macro-Segmentation"
+    },
+    {
+        "name": "Malware Analysis",
+        "parent": "Threat Detection & Response"
+    },
+    {
+        "name": "ProdID-33018",
+        "parent": "Malware Analysis"
+    },
+    {
+        "name": "ProdID-33650",
+        "parent": "Malware Analysis"
+    },
+    {
+        "name": "ProdID-33647",
+        "parent": "Malware Analysis"
+    },
+    {
+        "name": "ProdID-32271",
+        "parent": "Malware Analysis"
+    },
+    {
+        "name": "ProdID-34291",
+        "parent": "Malware Analysis"
+    },
+    {
+        "name": "Micro-Segmentation",
+        "parent": "Network Protection"
+    },
+    {
+        "name": "ProdID-33397",
+        "parent": "Micro-Segmentation"
+    },
+    {
+        "name": "Mobile Policy Enforcement",
+        "parent": "Endpoint Protection"
+    },
+    {
+        "name": "ProdID-34168",
+        "parent": "Mobile Policy Enforcement"
+    },
+    {
+        "name": "ProdID-34169",
+        "parent": "Mobile Policy Enforcement"
+    },
+    {
+        "name": "Multi-factor Authentication",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-28593",
+        "parent": "Multi-factor Authentication"
+    },
+    {
+        "name": "ProdID-26091",
+        "parent": "Multi-factor Authentication"
+    },
+    {
+        "name": "ProdID-9555",
+        "parent": "Multi-factor Authentication"
+    },
+    {
+        "name": "ProdID-33460",
+        "parent": "Multi-factor Authentication"
+    },
+    {
+        "name": "ProdID-14342",
+        "parent": "Multi-factor Authentication"
+    },
+    {
+        "name": "ProdID-33240",
+        "parent": "Multi-factor Authentication"
+    },
+    {
+        "name": "ProdID-18377",
+        "parent": "Multi-factor Authentication"
+    },
+    {
+        "name": "Network Access Control",
+        "parent": "Secure Network and Internet Access"
+    },
+    {
+        "name": "ProdID-26036",
+        "parent": "Network Access Control"
+    },
+    {
+        "name": "ProdID-23154",
+        "parent": "Network Access Control"
+    },
+    {
+        "name": "ProdID-20602",
+        "parent": "Network Access Control"
+    },
+    {
+        "name": "Network Visibility",
+        "parent": "Network Security"
+    },
+    {
+        "name": "Network Analysis and Visibility",
+        "parent": "Network Visibility"
+    },
+    {
+        "name": "ProdID-34039",
+        "parent": "Network Analysis and Visibility"
+    },
+    {
+        "name": "Network Anti-Malware Scanning",
+        "parent": "Network Threat Detection"
+    },
+    {
+        "name": "ProdID-33495",
+        "parent": "Network Anti-Malware Scanning"
+    },
+    {
+        "name": "Network Security Management",
+        "parent": "Network Security"
+    },
+    {
+        "name": "Network Security Configuration Management",
+        "parent": "Network Security Management"
+    },
+    {
+        "name": "ProdID-23229",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "ProdID-4254",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "ProdID-23159",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "ProdID-30466",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "ProdID-4181",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "ProdID-32301",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "ProdID-17498",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "ProdID-28394",
+        "parent": "Network Security Configuration Management"
+    },
+    {
+        "name": "Nonstandard Application Enablement",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-32208",
+        "parent": "Nonstandard Application Enablement"
+    },
+    {
+        "name": "Password Management",
+        "parent": "Credentials"
+    },
+    {
+        "name": "ProdID-18844",
+        "parent": "Password Management"
+    },
+    {
+        "name": "ProdID-372",
+        "parent": "Password Management"
+    },
+    {
+        "name": "ProdID-28568",
+        "parent": "Password Management"
+    },
+    {
+        "name": "Phishing and Spam Detection",
+        "parent": "Endpoint Protection"
+    },
+    {
+        "name": "ProdID-34095",
+        "parent": "Phishing and Spam Detection"
+    },
+    {
+        "name": "ProdID-31175",
+        "parent": "Phishing and Spam Detection"
+    },
+    {
+        "name": "ProdID-25594",
+        "parent": "Phishing and Spam Detection"
+    },
+    {
+        "name": "Physical Access Systems",
+        "parent": "Physical & Device Security"
+    },
+    {
+        "name": "Physical Access Systems - PIAM",
+        "parent": "Physical Access Systems"
+    },
+    {
+        "name": "ProdID-12383",
+        "parent": "Physical Access Systems - PIAM"
+    },
+    {
+        "name": "Physical Firewall Boundary",
+        "parent": "Network Protection"
+    },
+    {
+        "name": "ProdID-23652",
+        "parent": "Physical Firewall Boundary"
+    },
+    {
+        "name": "ProdID-19628",
+        "parent": "Physical Firewall Boundary"
+    },
+    {
+        "name": "PKI Management",
+        "parent": "Credentials"
+    },
+    {
+        "name": "ProdID-30829",
+        "parent": "PKI Management"
+    },
+    {
+        "name": "ProdID-18380",
+        "parent": "PKI Management"
+    },
+    {
+        "name": "Policy Enforcement",
+        "parent": "Access Management and Governance (Workforce)"
+    },
+    {
+        "name": "ProdID-4950",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-25463",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-17719",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-4638",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-30568",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-29968",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-31588",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-23847",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-12485",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-24583",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-46",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-30924",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-17720",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-12143",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-18845",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-14499",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-20409",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-14987",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-25693",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-12739",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-23154",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-17464",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "ProdID-4647",
+        "parent": "Policy Enforcement"
+    },
+    {
+        "name": "Preboot OS-level encryption of physical or virtual device",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "ProdID-30030",
+        "parent": "Preboot OS-level encryption of physical or virtual device"
+    },
+    {
+        "name": "Privilege Elevation and Delegation Management",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-26428",
+        "parent": "Privilege Elevation and Delegation Management"
+    },
+    {
+        "name": "ProdID-32534",
+        "parent": "Privilege Elevation and Delegation Management"
+    },
+    {
+        "name": "Privileged Access Review (PAR)",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-18844",
+        "parent": "Privileged Access Review (PAR)"
+    },
+    {
+        "name": "ProdID-26377",
+        "parent": "Privileged Access Review (PAR)"
+    },
+    {
+        "name": "ProdID-26006",
+        "parent": "Privileged Access Review (PAR)"
+    },
+    {
+        "name": "ProdID-33262",
+        "parent": "Privileged Access Review (PAR)"
+    },
+    {
+        "name": "Secure Development",
+        "parent": "Application Security"
+    },
+    {
+        "name": "Process, Integration & Orchestration",
+        "parent": "Secure Development"
+    },
+    {
+        "name": "ProdID-34085",
+        "parent": "Process, Integration & Orchestration"
+    },
+    {
+        "name": "Red Teaming",
+        "parent": "Threat Defence Analysis"
+    },
+    {
+        "name": "ProdID-33440",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-33433",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-33439",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-32272",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-33434",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-33435",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-31996",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-32060",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-33436",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-33437",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "ProdID-33438",
+        "parent": "Red Teaming"
+    },
+    {
+        "name": "Release Management",
+        "parent": "Secure Integration"
+    },
+    {
+        "name": "ProdID-34107",
+        "parent": "Release Management"
+    },
+    {
+        "name": "Reverse Proxy Gateway",
+        "parent": "Secure Network and Internet Access"
+    },
+    {
+        "name": "ProdID-33416",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-32266",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-27370",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-26091",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-9555",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-29980",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-27699",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-19541",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "ProdID-17714",
+        "parent": "Reverse Proxy Gateway"
+    },
+    {
+        "name": "Risk",
+        "parent": "GRC"
+    },
+    {
+        "name": "Risk Culture",
+        "parent": "Risk"
+    },
+    {
+        "name": "ProdID-34269",
+        "parent": "Risk Culture"
+    },
+    {
+        "name": "ProdID-31418",
+        "parent": "Risk Culture"
+    },
+    {
+        "name": "Fusion",
+        "parent": "Cyber Security"
+    },
+    {
+        "name": "Risk Engine",
+        "parent": "Fusion"
+    },
+    {
+        "name": "ProdID-34292",
+        "parent": "Risk Engine"
+    },
+    {
+        "name": "Risk Management",
+        "parent": "Risk"
+    },
+    {
+        "name": "ProdID-32563",
+        "parent": "Risk Management"
+    },
+    {
+        "name": "ProdID-33905",
+        "parent": "Risk Management"
+    },
+    {
+        "name": "Authorisation",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Role-based authorisation",
+        "parent": "Authorisation"
+    },
+    {
+        "name": "ProdID-18844",
+        "parent": "Role-based authorisation"
+    },
+    {
+        "name": "Secure Environment",
+        "parent": "Application Security"
+    },
+    {
+        "name": "Root Cause Analysis",
+        "parent": "Secure Environment"
+    },
+    {
+        "name": "ProdID-33825",
+        "parent": "Root Cause Analysis"
+    },
+    {
+        "name": "Rule-based authorisation",
+        "parent": "Authorisation"
+    },
+    {
+        "name": "ProdID-20090",
+        "parent": "Rule-based authorisation"
+    },
+    {
+        "name": "Secrets Management",
+        "parent": "Encryption & Key Management"
+    },
+    {
+        "name": "ProdID-32629",
+        "parent": "Secrets Management"
+    },
+    {
+        "name": "Secrets Management - IDAM Specific",
+        "parent": "Credentials"
+    },
+    {
+        "name": "ProdID-34338",
+        "parent": "Secrets Management - IDAM Specific"
+    },
+    {
+        "name": "Attack Surface Reduction",
+        "parent": "Cyber Security"
+    },
+    {
+        "name": "Secure Configuration Scanning",
+        "parent": "Attack Surface Reduction"
+    },
+    {
+        "name": "ProdID-31122",
+        "parent": "Secure Configuration Scanning"
+    },
+    {
+        "name": "ProdID-19076",
+        "parent": "Secure Configuration Scanning"
+    },
+    {
+        "name": "ProdID-33159",
+        "parent": "Secure Configuration Scanning"
+    },
+    {
+        "name": "ProdID-23429",
+        "parent": "Secure Configuration Scanning"
+    },
+    {
+        "name": "Governance",
+        "parent": "GRC"
+    },
+    {
+        "name": "Security Assurance",
+        "parent": "Governance"
+    },
+    {
+        "name": "ProdID-31061",
+        "parent": "Security Assurance"
+    },
+    {
+        "name": "ProdID-32988",
+        "parent": "Security Assurance"
+    },
+    {
+        "name": "ProdID-34275",
+        "parent": "Security Assurance"
+    },
+    {
+        "name": "ProdID-20667",
+        "parent": "Security Assurance"
+    },
+    {
+        "name": "Security Configuration Check",
+        "parent": "Network Security Management"
+    },
+    {
+        "name": "ProdID-24835",
+        "parent": "Security Configuration Check"
+    },
+    {
+        "name": "Security Incident and Event Management (SIEM)",
+        "parent": "Security Analytics"
+    },
+    {
+        "name": "ProdID-34007",
+        "parent": "Security Incident and Event Management (SIEM)"
+    },
+    {
+        "name": "ProdID-33158",
+        "parent": "Security Incident and Event Management (SIEM)"
+    },
+    {
+        "name": "Data Discovery",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "Sensitive Data Discovery",
+        "parent": "Data Discovery"
+    },
+    {
+        "name": "ProdID-32466",
+        "parent": "Sensitive Data Discovery"
+    },
+    {
+        "name": "Session Management",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-18844",
+        "parent": "Session Management"
+    },
+    {
+        "name": "Single Sign On (SSO)",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-32547",
+        "parent": "Single Sign On (SSO)"
+    },
+    {
+        "name": "ProdID-26711",
+        "parent": "Single Sign On (SSO)"
+    },
+    {
+        "name": "ProdID-9555",
+        "parent": "Single Sign On (SSO)"
+    },
+    {
+        "name": "Static Application Security Testing",
+        "parent": "Secure Integration"
+    },
+    {
+        "name": "ProdID-33850",
+        "parent": "Static Application Security Testing"
+    },
+    {
+        "name": "Structured Data Security",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "Structured Data Encryption",
+        "parent": "Structured Data Security"
+    },
+    {
+        "name": "ProdID-13834",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-26629",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-19965",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-29637",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-12889",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-26341",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-31755",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-25755",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "ProdID-31985",
+        "parent": "Structured Data Encryption"
+    },
+    {
+        "name": "Temporary Privileged Access (Planned & Unplanned)",
+        "parent": "Privilege Access Management"
+    },
+    {
+        "name": "ProdID-31023",
+        "parent": "Temporary Privileged Access (Planned & Unplanned)"
+    },
+    {
+        "name": "ProdID-31454",
+        "parent": "Temporary Privileged Access (Planned & Unplanned)"
+    },
+    {
+        "name": "ProdID-18844",
+        "parent": "Temporary Privileged Access (Planned & Unplanned)"
+    },
+    {
+        "name": "ProdID-30703",
+        "parent": "Temporary Privileged Access (Planned & Unplanned)"
+    },
+    {
+        "name": "ProdID-27160",
+        "parent": "Temporary Privileged Access (Planned & Unplanned)"
+    },
+    {
+        "name": "ProdID-31055",
+        "parent": "Temporary Privileged Access (Planned & Unplanned)"
+    },
+    {
+        "name": "ProdID-33263",
+        "parent": "Temporary Privileged Access (Planned & Unplanned)"
+    },
+    {
+        "name": "Third-Party Integration (API ext)",
+        "parent": "Endpoint Protection"
+    },
+    {
+        "name": "ProdID-24526",
+        "parent": "Third-Party Integration (API ext)"
+    },
+    {
+        "name": "Threat Modelling",
+        "parent": "Threat Defence Analysis"
+    },
+    {
+        "name": "ProdID-31296",
+        "parent": "Threat Modelling"
+    },
+    {
+        "name": "Token Management",
+        "parent": "Authentication and Federation"
+    },
+    {
+        "name": "ProdID-19300",
+        "parent": "Token Management"
+    },
+    {
+        "name": "ProdID-28059",
+        "parent": "Token Management"
+    },
+    {
+        "name": "ProdID-4671",
+        "parent": "Token Management"
+    },
+    {
+        "name": "ProdID-29422",
+        "parent": "Token Management"
+    },
+    {
+        "name": "ProdID-29423",
+        "parent": "Token Management"
+    },
+    {
+        "name": "ProdID-28062",
+        "parent": "Token Management"
+    },
+    {
+        "name": "Unauthorised Asset Detection",
+        "parent": "Attack Surface Reduction"
+    },
+    {
+        "name": "ProdID-33668",
+        "parent": "Unauthorised Asset Detection"
+    },
+    {
+        "name": "Unstructured Data Security",
+        "parent": "Data Protection"
+    },
+    {
+        "name": "Unstructured Data Encryption",
+        "parent": "Unstructured Data Security"
+    },
+    {
+        "name": "ProdID-13834",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-26629",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-19965",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-19964",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-29637",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-17727",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-12889",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-26341",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-31755",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-25755",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "ProdID-31985",
+        "parent": "Unstructured Data Encryption"
+    },
+    {
+        "name": "URL Restriction",
+        "parent": "Secure Network and Internet Access"
+    },
+    {
+        "name": "ProdID-33225",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "ProdID-32443",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "ProdID-23159",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "ProdID-26204",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "ProdID-20167",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "ProdID-28394",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "ProdID-18749",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "ProdID-18751",
+        "parent": "URL Restriction"
+    },
+    {
+        "name": "User Entity and Behaviour Analysis",
+        "parent": "Security Analytics"
+    },
+    {
+        "name": "ProdID-32007",
+        "parent": "User Entity and Behaviour Analysis"
+    },
+    {
+        "name": "ProdID-30585",
+        "parent": "User Entity and Behaviour Analysis"
+    },
+    {
+        "name": "ProdID-32172",
+        "parent": "User Entity and Behaviour Analysis"
+    },
+    {
+        "name": "Vulnerability Assessment and Management",
+        "parent": "Endpoint Protection"
+    },
+    {
+        "name": "ProdID-31247",
+        "parent": "Vulnerability Assessment and Management"
+    },
+    {
+        "name": "ProdID-17574",
+        "parent": "Vulnerability Assessment and Management"
+    },
+    {
+        "name": "Vulnerability Scanning",
+        "parent": "Attack Surface Reduction"
+    },
+    {
+        "name": "ProdID-32648",
+        "parent": "Vulnerability Scanning"
+    },
+    {
+        "name": "ProdID-31122",
+        "parent": "Vulnerability Scanning"
+    },
+    {
+        "name": "ProdID-33020",
+        "parent": "Vulnerability Scanning"
+    },
+    {
+        "name": "ProdID-4359",
+        "parent": "Vulnerability Scanning"
+    },
+    {
+        "name": "ProdID-30321",
+        "parent": "Vulnerability Scanning"
+    },
+    {
+        "name": "ProdID-26502",
+        "parent": "Vulnerability Scanning"
+    },
+    {
+        "name": "Web DLP",
+        "parent": "Data Usage Monitoring"
+    },
+    {
+        "name": "ProdID-27140",
+        "parent": "Web DLP"
+    },
+    {
+        "name": "ProdID-18808",
+        "parent": "Web DLP"
+    },
+    {
+        "name": "ProdID-33271",
+        "parent": "Web DLP"
+    },
+    {
+        "name": "ProdID-32912",
+        "parent": "Web DLP"
+    },
+    {
+        "name": "Security Orchestration and Automation",
+        "parent": "Cyber Security"
+    },
+    {
+        "name": "Workflow and Automation",
+        "parent": "Security Orchestration and Automation"
+    },
+    {
+        "name": "ProdID-32273",
+        "parent": "Workflow and Automation"
+    },
+    {
+        "name": "ProdID-31297",
+        "parent": "Workflow and Automation"
+    },
+    {
+        "name": "Identity Management (Workforce)",
+        "parent": "Identity & Access Management"
+    },
+    {
+        "name": "Workforce Identifier Generation (Internal Users)",
+        "parent": "Identity Management (Workforce)"
+    },
+    {
+        "name": "ProdID-27159",
+        "parent": "Workforce Identifier Generation (Internal Users)"
+    },
+    {
+        "name": "ProdID-9240",
+        "parent": "Workforce Identifier Generation (Internal Users)"
+    },
+    {
+        "name": "ProdID-9519",
+        "parent": "Workforce Identifier Generation (Internal Users)"
+    },
+    {
+        "name": "Workforce Identity and Access Object Distribution",
+        "parent": "Identity Management (Workforce)"
+    },
+    {
+        "name": "ProdID-30256",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-31023",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-24629",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-26815",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-29622",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-372",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-31987",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-17861",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-29596",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "ProdID-9525",
+        "parent": "Workforce Identity and Access Object Distribution"
+    },
+    {
+        "name": "Workforce Identity Lifecycle Management and Identity Data Provision",
+        "parent": "Identity Management (Workforce)"
+    },
+    {
+        "name": "ProdID-27159",
+        "parent": "Workforce Identity Lifecycle Management and Identity Data Provision"
+    },
+    {
+        "name": "ProdID-9240",
+        "parent": "Workforce Identity Lifecycle Management and Identity Data Provision"
+    },
+    {
+        "name": "ProdID-31987",
+        "parent": "Workforce Identity Lifecycle Management and Identity Data Provision"
+    },
+    {
+        "name": "ProdID-19493",
+        "parent": "Workforce Identity Lifecycle Management and Identity Data Provision"
+    },
+    {
+        "name": "ProdID-32530",
+        "parent": "Workforce Identity Lifecycle Management and Identity Data Provision"
+    },
+    {
+        "name": "ProdID-32380",
+        "parent": "Workforce Identity Lifecycle Management and Identity Data Provision"
+    },
+    {
+        "name": "ProdID-34174",
+        "parent": "Workforce Identity Lifecycle Management and Identity Data Provision"
+    },
+    {
+        "name": "Workforce Identity Provisioning",
+        "parent": "Identity Management (Workforce)"
+    },
+    {
+        "name": "ProdID-30256",
+        "parent": "Workforce Identity Provisioning"
+    },
+    {
+        "name": "ProdID-26815",
+        "parent": "Workforce Identity Provisioning"
+    },
+    {
+        "name": "ProdID-29622",
+        "parent": "Workforce Identity Provisioning"
+    },
+    {
+        "name": "ProdID-27159",
+        "parent": "Workforce Identity Provisioning"
+    },
+    {
+        "name": "ProdID-9240",
+        "parent": "Workforce Identity Provisioning"
+    },
+    {
+        "name": "Workforce Identity Repository",
+        "parent": "Identity Management (Workforce)"
+    },
+    {
+        "name": "ProdID-17700",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-32590",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-24629",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-27446",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-12419",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-11383",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-17718",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-25741",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-14094",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-33226",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-34148",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-33269",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-33270",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-33268",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-33267",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "ProdID-26466",
+        "parent": "Workforce Identity Repository"
+    },
+    {
+        "name": "Workforce Identity Request, Modification and Deletion",
+        "parent": "Identity Management (Workforce)"
+    },
+    {
+        "name": "ProdID-32108",
+        "parent": "Workforce Identity Request, Modification and Deletion"
+    },
+    {
+        "name": "ProdID-27159",
+        "parent": "Workforce Identity Request, Modification and Deletion"
+    },
+    {
+        "name": "ProdID-9240",
+        "parent": "Workforce Identity Request, Modification and Deletion"
+    },
+    {
+        "name": "ProdID-9519",
+        "parent": "Workforce Identity Request, Modification and Deletion"
+    },
+    {
+        "name": "Workforce User Onboarding and Identity Creation",
+        "parent": "Identity Management (Workforce)"
+    },
+    {
+        "name": "ProdID-27159",
+        "parent": "Workforce User Onboarding and Identity Creation"
+    },
+    {
+        "name": "ProdID-9240",
+        "parent": "Workforce User Onboarding and Identity Creation"
+    },
+    {
+        "name": "ProdID-9519",
+        "parent": "Workforce User Onboarding and Identity Creation"
+    }
+]

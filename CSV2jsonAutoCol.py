@@ -1,8 +1,10 @@
+
+
 import pandas as pd
 import json
 
 # Load CSV file
-df = pd.read_csv('your_data.csv')
+df = pd.read_csv('modeldata.csv')
 
 # Get column names
 columns = df.columns.tolist()

@@ -1,0 +1,512 @@
+﻿Domain,SubDomain,Capability,Component,Product ID
+Security,Data Protection,Data Usage Monitoring,3rd Party DLP,ProdID-11221
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-4950
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-25463
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17719
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-4638
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-30568
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-31588
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-23847
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-12485
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-24583
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-46
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-30924
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-400
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17720
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-12143
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-18845
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-14499
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-20409
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-14987
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17718
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-25693
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17464
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-4647
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-25463
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17719
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-4638
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-30568
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-29968
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-23847
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-12485
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-24583
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-46
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-27160
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-30924
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17720
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-11209
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-12143
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-18845
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-14499
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-20409
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-14987
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17718
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-25693
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-12739
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17464
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-4647
+Security,Identity & Access Management,Privilege Access Management,Access Control for Shared Accounts,ProdID-28197
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-30256
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-33970
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-30780
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-372
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-623
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-25224
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-4950
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-25463
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17719
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-4638
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-30568
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-31588
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-23847
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-12485
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-24583
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-46
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-30924
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17720
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-12143
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-18845
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-14499
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-20409
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-14987
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17718
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-25693
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-25713
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17464
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-4647
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-30256
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-372
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-623
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-26466
+Security,Identity & Access Management,Authentication and Federation,Adaptive Authentication,ProdID-34124
+Security,Identity & Access Management,Privilege Access Management,Application-to-Application Password Management,ProdID-30802
+Security,Application Security,Governance & Design,Application/Software Threat Modelling,ProdID-34012
+Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Assignment,ProdID-30256
+Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Assignment,ProdID-372
+Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Assignment,ProdID-623
+Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Restrictions,ProdID-30256
+Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Restrictions,ProdID-372
+Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Restrictions,ProdID-623
+Security,Network Security,Secure Network and Internet Access,B2B VPN-Gateway,ProdID-4941
+Security,Identity & Access Management,Authentication and Federation,Biometric Authentication Methods,ProdID-32589
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-24002
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-30277
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-17063
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-18368
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-24899
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-18356
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-25463
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17719
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-4638
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-30568
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-29968
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-23847
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-12485
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-24583
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-27160
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17720
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-12143
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-18845
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-14499
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-20409
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-14987
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17718
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-25693
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-12739
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17464
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-4647
+Security,Identity & Access Management,Identity Management (Clients),Client Identifier Generation,ProdID-27159
+Security,Identity & Access Management,Identity Management (Clients),Client Identifier Generation,ProdID-9240
+Security,Identity & Access Management,Identity Management (Clients),"Client Identity Request, Modification and Deletion",ProdID-33033
+Security,Identity & Access Management,Identity Management (Clients),Client User Onboarding and Identity Creation,ProdID-30256
+Security,Identity & Access Management,Identity Management (Clients),Client User Onboarding and Identity Creation,ProdID-31588
+Security,Identity & Access Management,Identity Management (Clients),Client User Onboarding and Identity Creation,ProdID-623
+Security,Data Protection,Data Usage Monitoring,Cloud Access Security Broker (CASB),ProdID-30145
+Security,Data Protection,Encryption & Key Management,Cloud Key Management,ProdID-33565
+Security,Data Protection,Encryption & Key Management,Cloud Key Management,ProdID-30819
+Security,Cyber Security,Cyber Threat Intelligence,Collection,ProdID-29420
+Security,Identity & Access Management,Privilege Access Management,Conditional Access,ProdID-31454
+Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-32666
+Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-28307
+Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-33826
+Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-34096
+Security,Identity & Access Management,Credentials,"Credential Distribution (hard token, mobile registration)",ProdID-372
+Security,Data Protection,Document Management,Cryptographic Document Signing,ProdID-17642
+Security,Cyber Security,Security Analytics,Data Analytics and Machine Learning,ProdID-27985
+Security,Data Protection,Data Usage Monitoring,Data Classification,ProdID-34390
+Security,Data Protection,Data Usage Monitoring,Data Visibility,ProdID-26224
+Security,Network Security,Network Protection,DDoS Protection,ProdID-31326
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-25463
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17719
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-4638
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-30568
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-29968
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-23847
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-12485
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-24583
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-27160
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-30924
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17720
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-12143
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-18845
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-14499
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-20409
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-14987
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17718
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-25693
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-12739
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17464
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-4647
+Security,Cyber Security,Security Analytics,Detection Use Case Management,ProdID-27985
+Security,Cyber Security,Security Analytics,Detection Use Case Management,ProdID-17669
+Security,Physical & Device Security,IoT Security,Device Management,ProdID-33698
+Security,Physical & Device Security,IoT Security,Device Management,ProdID-29274
+Security,Application Security,Secure Integration,Dynamic Application Security Testing,ProdID-32486
+Security,Application Security,Secure Integration,Dynamic Application Security Testing,ProdID-34084
+Security,Application Security,Secure Integration,Dynamic Application Security Testing,ProdID-33824
+Security,Data Protection,Data Usage Monitoring,E-Discovery Software,ProdID-24770
+Security,Data Protection,Data Usage Monitoring,E-Discovery Software,ProdID-29156
+Security,Data Protection,Data Usage Monitoring,Email DLP,ProdID-18808
+Security,Data Protection,Data Usage Monitoring,Email DLP,ProdID-31984
+Security,Identity & Access Management,Privilege Access Management,Emergency Access Management (BreakGlass),ProdID-18844
+Security,Identity & Access Management,Privilege Access Management,Emergency Access Management (BreakGlass),ProdID-15834
+Security,Cyber Security,Threat Detection & Response,Endpoint Detection and Response,ProdID-20767
+Security,Cyber Security,Threat Detection & Response,Endpoint Detection and Response,ProdID-29906
+Security,Cyber Security,Threat Detection & Response,Endpoint Detection and Response,ProdID-34175
+Security,End User System Security,Data Protection,Endpoint DLP,ProdID-17665
+Security,End User System Security,Data Protection,Endpoint DLP,ProdID-30830
+Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-17461
+Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-17459
+Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-17458
+Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-29634
+Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-15431
+Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-33325
+Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-17717
+Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-32363
+Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-27370
+Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-26711
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-17700
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32549
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-34196
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-34251
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-20582
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32546
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33214
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32803
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-26711
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32548
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-27446
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-25741
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-14094
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33351
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33414
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32552
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33350
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33415
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32550
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33348
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33561
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32551
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-26466
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-33021
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-28385
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-31737
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-23768
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-29305
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-17085
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-26185
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-25956
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-24769
+Security,GRC,Compliance,GRC,ProdID-15780
+Security,GRC,Compliance,GRC,ProdID-30795
+Security,GRC,Compliance,GRC,ProdID-33905
+Security,End User System Security,Endpoint Protection,Hardened Build,ProdID-32003
+Security,Data Protection,Encryption & Key Management,HSM - Extension of storage,ProdID-26223
+Security,Data Protection,Encryption & Key Management,HSM - Extension of storage,ProdID-33739
+Security,Data Protection,Encryption & Key Management,HSM - Request for encryption and/or key management,ProdID-34276
+Security,Data Protection,Encryption & Key Management,HSM - Request for encryption and/or key management,ProdID-33639
+Security,Data Protection,Encryption & Key Management,HSM - Request for encryption and/or key management,ProdID-26223
+Security,Network Security,Network Threat Detection,IDS / IPS,ProdID-23652
+Security,Network Security,Network Threat Detection,IDS / IPS,ProdID-23645
+Security,Cyber Security,Threat Detection & Response,Incident Management / Response,ProdID-32901
+Security,Cyber Security,Threat Detection & Response,Incident Management / Response,ProdID-32899
+Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-31308
+Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-32622
+Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-29420
+Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-33019
+Security,Application Security,Secure Integration,Interactive Application Security Testing,ProdID-31531
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-30569
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-19301
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-27899
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-28574
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-26231
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-22695
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-27605
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-29681
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-18801
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-24091
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-24436
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-25845
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-19889
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-23946
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-12889
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-28369
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-20651
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-26868
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-25463
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17719
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-4638
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-30568
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-23847
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-12485
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-24583
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-46
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-27160
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-30924
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17720
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-12143
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-18845
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-14499
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-20409
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-14987
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17718
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-25693
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-12739
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17464
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-4647
+Security,Cyber Security,Threat Detection & Response,Lessons Learned,ProdID-32267
+Security,Cyber Security,Threat Detection & Response,Lessons Learned,ProdID-31984
+Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-33120
+Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-32487
+Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-26375
+Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-17669
+Security,Network Security,Network Protection,Macro-Segmentation,ProdID-23652
+Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-33018
+Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-33650
+Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-33647
+Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-32271
+Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-34291
+Security,Network Security,Network Protection,Micro-Segmentation,ProdID-33397
+Security,End User System Security,Endpoint Protection,Mobile Policy Enforcement,ProdID-34168
+Security,End User System Security,Endpoint Protection,Mobile Policy Enforcement,ProdID-34169
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-28593
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-26091
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-9555
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-33460
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-14342
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-33240
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-18377
+Security,Network Security,Secure Network and Internet Access,Network Access Control,ProdID-26036
+Security,Network Security,Secure Network and Internet Access,Network Access Control,ProdID-23154
+Security,Network Security,Secure Network and Internet Access,Network Access Control,ProdID-20602
+Security,Network Security,Network Visibility,Network Analysis and Visibility,ProdID-34039
+Security,Network Security,Network Threat Detection,Network Anti-Malware Scanning,ProdID-33495
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-23229
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-4254
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-23159
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-30466
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-4181
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-32301
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-17498
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-28394
+Security,Identity & Access Management,Privilege Access Management,Nonstandard Application Enablement,ProdID-32208
+Security,Identity & Access Management,Credentials,Password Management,ProdID-18844
+Security,Identity & Access Management,Credentials,Password Management,ProdID-372
+Security,Identity & Access Management,Credentials,Password Management,ProdID-28568
+Security,End User System Security,Endpoint Protection,Phishing and Spam Detection,ProdID-34095
+Security,End User System Security,Endpoint Protection,Phishing and Spam Detection,ProdID-31175
+Security,End User System Security,Endpoint Protection,Phishing and Spam Detection,ProdID-25594
+Security,Physical & Device Security,Physical Access Systems,Physical Access Systems - PIAM,ProdID-12383
+Security,Network Security,Network Protection,Physical Firewall Boundary,ProdID-23652
+Security,Network Security,Network Protection,Physical Firewall Boundary,ProdID-19628
+Security,Identity & Access Management,Credentials,PKI Management,ProdID-30829
+Security,Identity & Access Management,Credentials,PKI Management,ProdID-18380
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4950
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-25463
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17719
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4638
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-30568
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-29968
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-31588
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-23847
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-12485
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-24583
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-46
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-30924
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17720
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-12143
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-18845
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-14499
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-20409
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-14987
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17718
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-25693
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-12739
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-23154
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17464
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4647
+Security,End User System Security,Data Protection,Preboot OS-level encryption of physical or virtual device,ProdID-30030
+Security,Identity & Access Management,Privilege Access Management,Privilege Elevation and Delegation Management,ProdID-26428
+Security,Identity & Access Management,Privilege Access Management,Privilege Elevation and Delegation Management,ProdID-32534
+Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-18844
+Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-26377
+Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-26006
+Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-33262
+Security,Application Security,Secure Development,"Process, Integration & Orchestration",ProdID-34085
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33440
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33433
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33439
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-32272
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33434
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33435
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-31996
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-32060
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33436
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33437
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33438
+Security,Application Security,Secure Integration,Release Management,ProdID-34107
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-33416
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-32266
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-27370
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-26091
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-9555
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-29980
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-27699
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-19541
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-17714
+Security,GRC,Risk,Risk Culture,ProdID-34269
+Security,GRC,Risk,Risk Culture,ProdID-31418
+Security,Cyber Security,Fusion,Risk Engine,ProdID-34292
+Security,GRC,Risk,Risk Management,ProdID-32563
+Security,GRC,Risk,Risk Management,ProdID-33905
+Security,Identity & Access Management,Authorisation,Role-based authorisation,ProdID-18844
+Security,Application Security,Secure Environment,Root Cause Analysis,ProdID-33825
+Security,Identity & Access Management,Authorisation,Rule-based authorisation,ProdID-20090
+Security,Data Protection,Encryption & Key Management,Secrets Management,ProdID-32629
+Security,Identity & Access Management,Credentials,Secrets Management - IDAM Specific,ProdID-34338
+Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-31122
+Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-19076
+Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-33159
+Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-23429
+Security,GRC,Governance,Security Assurance,ProdID-31061
+Security,GRC,Governance,Security Assurance,ProdID-32988
+Security,GRC,Governance,Security Assurance,ProdID-34275
+Security,GRC,Governance,Security Assurance,ProdID-20667
+Security,Network Security,Network Security Management,Security Configuration Check,ProdID-24835
+Security,Cyber Security,Security Analytics,Security Incident and Event Management (SIEM),ProdID-34007
+Security,Cyber Security,Security Analytics,Security Incident and Event Management (SIEM),ProdID-33158
+Security,Data Protection,Data Discovery,Sensitive Data Discovery,ProdID-32466
+Security,Identity & Access Management,Authentication and Federation,Session Management,ProdID-18844
+Security,Identity & Access Management,Authentication and Federation,Single Sign On (SSO),ProdID-32547
+Security,Identity & Access Management,Authentication and Federation,Single Sign On (SSO),ProdID-26711
+Security,Identity & Access Management,Authentication and Federation,Single Sign On (SSO),ProdID-9555
+Security,Application Security,Secure Integration,Static Application Security Testing,ProdID-33850
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-13834
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-26629
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-19965
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-29637
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-12889
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-26341
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-31755
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-25755
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-31985
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-31023
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-31454
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-18844
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-30703
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-27160
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-31055
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-33263
+Security,End User System Security,Endpoint Protection,Third-Party Integration (API ext),ProdID-24526
+Security,Cyber Security,Threat Defence Analysis,Threat Modelling,ProdID-31296
+Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-19300
+Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-28059
+Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-4671
+Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-29422
+Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-29423
+Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-28062
+Security,Cyber Security,Attack Surface Reduction,Unauthorised Asset Detection,ProdID-33668
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-13834
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-26629
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-19965
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-19964
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-29637
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-17727
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-12889
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-26341
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-31755
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-25755
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-31985
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-33225
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-32443
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-23159
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-26204
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-20167
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-28394
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-18749
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-18751
+Security,Cyber Security,Security Analytics,User Entity and Behaviour Analysis,ProdID-32007
+Security,Cyber Security,Security Analytics,User Entity and Behaviour Analysis,ProdID-30585
+Security,Cyber Security,Security Analytics,User Entity and Behaviour Analysis,ProdID-32172
+Security,End User System Security,Endpoint Protection,Vulnerability Assessment and Management,ProdID-31247
+Security,End User System Security,Endpoint Protection,Vulnerability Assessment and Management,ProdID-17574
+Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-32648
+Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-31122
+Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-33020
+Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-4359
+Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-30321
+Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-26502
+Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-27140
+Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-18808
+Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-33271
+Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-32912
+Security,Cyber Security,Security Orchestration and Automation,Workflow and Automation,ProdID-32273
+Security,Cyber Security,Security Orchestration and Automation,Workflow and Automation,ProdID-31297
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identifier Generation (Internal Users),ProdID-27159
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identifier Generation (Internal Users),ProdID-9240
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identifier Generation (Internal Users),ProdID-9519
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-30256
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-31023
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-24629
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-26815
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-29622
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-372
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-31987
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-17861
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-29596
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-9525
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-27159
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-9240
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-31987
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-19493
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-32530
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-32380
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-34174
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-30256
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-26815
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-29622
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-27159
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-9240
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-17700
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-32590
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-24629
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-27446
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-12419
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-11383
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-17718
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-25741
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-14094
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33226
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-34148
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33269
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33270
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33268
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33267
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-26466
+Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-32108
+Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-27159
+Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-9240
+Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-9519
+Security,Identity & Access Management,Identity Management (Workforce),Workforce User Onboarding and Identity Creation,ProdID-27159
+Security,Identity & Access Management,Identity Management (Workforce),Workforce User Onboarding and Identity Creation,ProdID-9240
+Security,Identity & Access Management,Identity Management (Workforce),Workforce User Onboarding and Identity Creation,ProdID-9519
