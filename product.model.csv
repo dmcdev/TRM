@@ -1,7 +1,7 @@
 ﻿Domain,SubDomain,Capability,Component,ProdID,Heritage,Vendor,Intent,Decom Date,Cost
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17719,Red,Vendor 2,Decom,2030,1692000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-4638,Red,Vendor 64,Decom,2024,538000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-24583,Blue,Vendor 3,Decom,2030,201000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-24583,Green,Vendor 3,Decom,2030,201000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17720,Red,Vendor 46,Decom,2025,2176000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-25693,Red,Vendor 56,Decom,2024,2423000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-4647,Red,Vendor 22,Decom,2030,455000
@@ -9,7 +9,7 @@ Security,Identity & Access Management,Access Management and Governance (Workforc
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-29968,Red,Vendor 34,Decom,2025,870000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-23847,Red,Vendor 65,Decom,2030,236000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-12485,Red,Vendor 87,Decom,2025,1558000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-27160,Blue,Vendor 59,Decom,2025,1631000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-27160,Green,Vendor 59,Decom,2025,1631000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17720,Red,Vendor 12,Decom,2025,1767000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-12143,Red,Vendor 22,Decom,2030,1616000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-12739,Red,Vendor 5,Decom,2024,1030000
@@ -17,18 +17,18 @@ Security,Identity & Access Management,Access Management and Governance (Workforc
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-30256,Red,Vendor 16,Decom,2024,724000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17719,Red,Vendor 41,Decom,2024,367000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-30568,Red,Vendor 30,Decom,2025,1883000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-23847,Blue,Vendor 64,Decom,2030,1506000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-23847,Green,Vendor 64,Decom,2030,1506000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-12485,Red,Vendor 87,Decom,2024,1016000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-46,Red,Vendor 82,Decom,2024,665000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-25693,Blue,Vendor 46,Decom,2024,1893000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-25693,Green,Vendor 46,Decom,2024,1893000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17464,Red,Vendor 33,Decom,2030,2903000
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-26466,Red,Vendor 81,Decom,2024,566000
 Security,Identity & Access Management,Authentication and Federation,Adaptive Authentication,ProdID-34124,Red,Vendor 30,Decom,2025,1527000
-Security,Identity & Access Management,Privilege Access Management,Application-to-Application Password Management,ProdID-30802,Blue,Vendor 48,Decom,2030,2093000
-Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-24002,Blue,Vendor 54,Decom,2025,2476000
+Security,Identity & Access Management,Privilege Access Management,Application-to-Application Password Management,ProdID-30802,Green,Vendor 48,Decom,2030,2093000
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-24002,Green,Vendor 54,Decom,2025,2476000
 Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-17063,Red,Vendor 7,Decom,2024,1300000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-4638,Red,Vendor 16,Decom,2025,2008000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-18845,Blue,Vendor 17,Decom,2025,389000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-18845,Green,Vendor 17,Decom,2025,389000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17464,Red,Vendor 81,Decom,2025,2330000
 Security,Identity & Access Management,Identity Management (Clients),Client Identifier Generation,ProdID-27159,Red,Vendor 38,Decom,2025,1090000
 Security,Identity & Access Management,Identity Management (Clients),Client User Onboarding and Identity Creation,ProdID-31588,Red,Vendor 1,Decom,2024,978000
@@ -38,11 +38,11 @@ Security,Identity & Access Management,Credentials,"Credential Distribution (hard
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-29968,Red,Vendor 6,Decom,2030,294000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-24583,Red,Vendor 89,Decom,2030,2819000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-27160,Red,Vendor 83,Decom,2024,1191000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-30924,Blue,Vendor 80,Decom,2024,2565000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-20409,Blue,Vendor 50,Decom,2025,2328000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-30924,Green,Vendor 80,Decom,2024,2565000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-20409,Green,Vendor 50,Decom,2025,2328000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-4647,Red,Vendor 7,Decom,2024,2356000
 Security,Cyber Security,Security Analytics,Detection Use Case Management,ProdID-27985,Red,Vendor 15,Decom,2030,113000
-Security,Data Protection,Data Usage Monitoring,Email DLP,ProdID-31984,Blue,Vendor 33,Decom,2024,1119000
+Security,Data Protection,Data Usage Monitoring,Email DLP,ProdID-31984,Green,Vendor 33,Decom,2024,1119000
 Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-17459,Red,Vendor 72,Decom,2024,594000
 Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-29634,Red,Vendor 31,Decom,2030,2023000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-33325,Red,Vendor 35,Decom,2024,1912000
@@ -58,12 +58,12 @@ Security,GRC,Compliance,GRC,ProdID-33905,Red,Vendor 60,Decom,2024,1717000
 Security,End User System Security,Endpoint Protection,Hardened Build,ProdID-32003,Red,Vendor 77,Decom,2025,2744000
 Security,Network Security,Network Threat Detection,IDS / IPS,ProdID-23652,Red,Vendor 84,Decom,2025,2850000
 Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-29420,Red,Vendor 4,Decom,2025,2688000
-Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-33019,Blue,Vendor 32,Decom,2025,2425000
+Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-33019,Green,Vendor 32,Decom,2025,2425000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-28574,Red,Vendor 2,Decom,2024,1953000
-Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-27605,Blue,Vendor 78,Decom,2025,149000
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-27605,Green,Vendor 78,Decom,2025,149000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-18801,Red,Vendor 39,Decom,2030,841000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-24091,Red,Vendor 30,Decom,2025,1460000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-25463,Blue,Vendor 35,Decom,2030,2706000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-25463,Green,Vendor 35,Decom,2030,2706000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-25693,Red,Vendor 7,Decom,2024,2730000
 Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-26375,Red,Vendor 13,Decom,2030,2696000
 Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-17669,Red,Vendor 74,Decom,2030,2479000
@@ -73,7 +73,7 @@ Security,Identity & Access Management,Authentication and Federation,Multi-factor
 Security,Network Security,Network Visibility,Network Analysis and Visibility,ProdID-34039,Red,Vendor 19,Decom,2024,2967000
 Security,Network Security,Network Threat Detection,Network Anti-Malware Scanning,ProdID-33495,Red,Vendor 11,Decom,2025,1947000
 Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-28394,Red,Vendor 34,Decom,2024,2369000
-Security,Identity & Access Management,Credentials,PKI Management,ProdID-30829,Blue,Vendor 40,Decom,2025,1637000
+Security,Identity & Access Management,Credentials,PKI Management,ProdID-30829,Green,Vendor 40,Decom,2025,1637000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17719,Red,Vendor 61,Decom,2024,2667000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-29968,Red,Vendor 9,Decom,2025,1828000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-24583,Red,Vendor 58,Decom,2025,641000
@@ -82,34 +82,34 @@ Security,End User System Security,Data Protection,Preboot OS-level encryption of
 Security,Identity & Access Management,Privilege Access Management,Privilege Elevation and Delegation Management,ProdID-26428,Red,Vendor 76,Decom,2024,44000
 Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-26377,Red,Vendor 26,Decom,2025,1778000
 Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-33262,Red,Vendor 27,Decom,2024,1747000
-Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33433,Blue,Vendor 36,Decom,2025,81000
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33433,Green,Vendor 36,Decom,2025,81000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33439,Red,Vendor 52,Decom,2024,2599000
-Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-32272,Blue,Vendor 82,Decom,2024,91000
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-32272,Green,Vendor 82,Decom,2024,91000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33434,Red,Vendor 12,Decom,2025,1885000
-Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-27370,Blue,Vendor 21,Decom,2024,874000
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-27370,Green,Vendor 21,Decom,2024,874000
 Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-26091,Red,Vendor 71,Decom,2024,2410000
 Security,Cyber Security,Fusion,Risk Engine,ProdID-34292,Red,Vendor 85,Decom,2024,803000
 Security,GRC,Risk,Risk Management,ProdID-32563,Red,Vendor 76,Decom,2024,2861000
 Security,Identity & Access Management,Authorisation,Role-based authorisation,ProdID-18844,Red,Vendor 83,Decom,2030,858000
 Security,Data Protection,Encryption & Key Management,Secrets Management,ProdID-32629,Red,Vendor 63,Decom,2025,1304000
 Security,Identity & Access Management,Authentication and Federation,Single Sign On (SSO),ProdID-26711,Red,Vendor 89,Decom,2024,1276000
-Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-29637,Blue,Vendor 19,Decom,2024,2000000
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-29637,Green,Vendor 19,Decom,2024,2000000
 Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-12889,Red,Vendor 31,Decom,2025,1033000
 Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-26341,Red,Vendor 39,Decom,2030,2748000
-Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-31985,Blue,Vendor 20,Decom,2030,746000
-Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-28059,Blue,Vendor 54,Decom,2030,2489000
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-31985,Green,Vendor 20,Decom,2030,746000
+Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-28059,Green,Vendor 54,Decom,2030,2489000
 Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-29422,Red,Vendor 82,Decom,2025,1001000
 Security,Cyber Security,Attack Surface Reduction,Unauthorised Asset Detection,ProdID-33668,Red,Vendor 14,Decom,2025,1979000
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-13834,Red,Vendor 3,Decom,2024,2737000
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-17727,Red,Vendor 31,Decom,2030,2513000
-Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-31755,Blue,Vendor 45,Decom,2030,1442000
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-31755,Green,Vendor 45,Decom,2030,1442000
 Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-23159,Red,Vendor 26,Decom,2024,1859000
 Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-20167,Red,Vendor 62,Decom,2025,1163000
-Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-18749,Blue,Vendor 69,Decom,2024,2687000
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-18749,Green,Vendor 69,Decom,2024,2687000
 Security,Cyber Security,Security Analytics,User Entity and Behaviour Analysis,ProdID-30585,Red,Vendor 62,Decom,2024,2631000
-Security,Cyber Security,Security Analytics,User Entity and Behaviour Analysis,ProdID-32172,Blue,Vendor 78,Decom,2024,2532000
+Security,Cyber Security,Security Analytics,User Entity and Behaviour Analysis,ProdID-32172,Green,Vendor 78,Decom,2024,2532000
 Security,End User System Security,Endpoint Protection,Vulnerability Assessment and Management,ProdID-31247,Red,Vendor 84,Decom,2030,1539000
-Security,End User System Security,Endpoint Protection,Vulnerability Assessment and Management,ProdID-17574,Blue,Vendor 19,Decom,2025,1909000
+Security,End User System Security,Endpoint Protection,Vulnerability Assessment and Management,ProdID-17574,Green,Vendor 19,Decom,2025,1909000
 Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-32648,Red,Vendor 46,Decom,2030,2601000
 Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-4359,Red,Vendor 51,Decom,2024,193000
 Security,Cyber Security,Security Orchestration and Automation,Workflow and Automation,ProdID-32273,Red,Vendor 30,Decom,2030,2518000
@@ -117,11 +117,11 @@ Security,Identity & Access Management,Identity Management (Workforce),Workforce 
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-31023,Red,Vendor 6,Decom,2024,584000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-24629,Red,Vendor 85,Decom,2024,1605000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-29622,Red,Vendor 18,Decom,2025,593000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-32530,Blue,Vendor 18,Decom,2024,319000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-32530,Green,Vendor 18,Decom,2024,319000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-30256,Red,Vendor 9,Decom,2024,459000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-26815,Red,Vendor 9,Decom,2025,226000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-9240,Red,Vendor 54,Decom,2024,2445000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-17700,Blue,Vendor 62,Decom,2025,1938000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-17700,Green,Vendor 62,Decom,2025,1938000
 Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-27159,Red,Vendor 39,Decom,2025,93000
 Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-9240,Red,Vendor 62,Decom,2025,2177000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce User Onboarding and Identity Creation,ProdID-27159,Red,Vendor 66,Decom,2024,2346000
@@ -129,13 +129,13 @@ Security,Identity & Access Management,Identity Management (Workforce),Workforce 
 Security,Data Protection,Data Usage Monitoring,3rd Party DLP,ProdID-797,Red,Vendor 44,Keep,2099,2260000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-4950,Red,Vendor 11,Keep,2099,246000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-25463,Red,Vendor 78,Keep,2099,1105000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-30568,Blue,Vendor 59,Keep,2099,2828000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-30568,Green,Vendor 59,Keep,2099,2828000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-31588,Red,Vendor 73,Keep,2099,793000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-23847,Blue,Vendor 24,Keep,2099,191000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-23847,Green,Vendor 24,Keep,2099,191000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-12485,Red,Vendor 78,Keep,2099,1083000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-46,Red,Vendor 3,Keep,2099,1337000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-30924,Red,Vendor 44,Keep,2099,2919000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-400,Blue,Vendor 13,Keep,2099,1066000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-400,Green,Vendor 13,Keep,2099,1066000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-12143,Red,Vendor 33,Keep,2099,2796000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-18845,Red,Vendor 30,Keep,2099,2765000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-14499,Red,Vendor 34,Keep,2099,2140000
@@ -143,25 +143,25 @@ Security,Identity & Access Management,Access Management and Governance (Workforc
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-14987,Red,Vendor 60,Keep,2099,1724000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17718,Red,Vendor 20,Keep,2099,2030000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Approval,ProdID-17464,Red,Vendor 28,Keep,2099,1125000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-25463,Blue,Vendor 81,Keep,2099,1286000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-25463,Green,Vendor 81,Keep,2099,1286000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17719,Red,Vendor 52,Keep,2099,2069000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-30568,Red,Vendor 3,Keep,2099,2923000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-24583,Red,Vendor 9,Keep,2099,2535000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-46,Red,Vendor 27,Keep,2099,1502000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-30924,Red,Vendor 10,Keep,2099,1085000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-11209,Blue,Vendor 70,Keep,2099,2278000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-11209,Green,Vendor 70,Keep,2099,2278000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-18845,Red,Vendor 67,Keep,2099,2683000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-14499,Red,Vendor 13,Keep,2099,249000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-20409,Red,Vendor 27,Keep,2099,1063000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-14987,Red,Vendor 41,Keep,2099,1017000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17718,Red,Vendor 3,Keep,2099,1432000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-25693,Blue,Vendor 85,Keep,2099,1024000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-25693,Green,Vendor 85,Keep,2099,1024000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Certification,ProdID-17464,Red,Vendor 22,Keep,2099,2353000
-Security,Identity & Access Management,Privilege Access Management,Access Control for Shared Accounts,ProdID-28197,Blue,Vendor 85,Keep,2099,469000
+Security,Identity & Access Management,Privilege Access Management,Access Control for Shared Accounts,ProdID-28197,Green,Vendor 85,Keep,2099,469000
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-33970,Red,Vendor 24,Keep,2099,739000
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-30780,Red,Vendor 78,Keep,2099,2196000
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-372,Red,Vendor 69,Keep,2099,177000
-Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-623,Blue,Vendor 18,Keep,2099,270000
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-623,Green,Vendor 18,Keep,2099,270000
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Management/Authorisation Capabilities,ProdID-25224,Red,Vendor 10,Keep,2099,1749000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-4950,Red,Vendor 32,Keep,2099,1560000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-25463,Red,Vendor 28,Keep,2099,2451000
@@ -169,40 +169,40 @@ Security,Identity & Access Management,Access Management and Governance (Workforc
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-31588,Red,Vendor 44,Keep,2099,760000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-24583,Red,Vendor 33,Keep,2099,2916000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-30924,Red,Vendor 80,Keep,2099,1754000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17720,Blue,Vendor 20,Keep,2099,1753000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-12143,Blue,Vendor 62,Keep,2099,1271000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-18845,Blue,Vendor 85,Keep,2099,2014000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17720,Green,Vendor 20,Keep,2099,1753000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-12143,Green,Vendor 62,Keep,2099,1271000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-18845,Green,Vendor 85,Keep,2099,2014000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-14499,Red,Vendor 78,Keep,2099,753000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-20409,Red,Vendor 18,Keep,2099,2424000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-14987,Blue,Vendor 20,Keep,2099,1473000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-14987,Green,Vendor 20,Keep,2099,1473000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-17718,Red,Vendor 41,Keep,2099,995000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-25713,Red,Vendor 45,Keep,2099,1045000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-4647,Blue,Vendor 89,Keep,2099,118000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Access Request,ProdID-4647,Green,Vendor 89,Keep,2099,118000
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-30256,Red,Vendor 72,Keep,2099,300000
-Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-372,Blue,Vendor 1,Keep,2099,536000
+Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-372,Green,Vendor 1,Keep,2099,536000
 Security,Identity & Access Management,Access Management and Governance (Clients),Access Rights Entitlement Definition / Mapping,ProdID-623,Red,Vendor 89,Keep,2099,2304000
-Security,Application Security,Governance & Design,Application/Software Threat Modelling,ProdID-34012,Blue,Vendor 32,Keep,2099,1604000
+Security,Application Security,Governance & Design,Application/Software Threat Modelling,ProdID-34012,Green,Vendor 32,Keep,2099,1604000
 Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Assignment,ProdID-30256,Red,Vendor 41,Keep,2099,701000
 Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Assignment,ProdID-372,Red,Vendor 67,Keep,2099,2169000
 Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Assignment,ProdID-623,Red,Vendor 60,Keep,2099,343000
 Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Restrictions,ProdID-30256,Red,Vendor 78,Keep,2099,333000
 Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Restrictions,ProdID-372,Red,Vendor 45,Keep,2099,1457000
-Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Restrictions,ProdID-623,Blue,Vendor 17,Keep,2099,72000
+Security,Identity & Access Management,Access Management and Governance (Clients),Automated Entitlement Restrictions,ProdID-623,Green,Vendor 17,Keep,2099,72000
 Security,Network Security,Secure Network and Internet Access,B2B VPN-Gateway,ProdID-4941,Red,Vendor 74,Keep,2099,218000
 Security,Identity & Access Management,Authentication and Federation,Biometric Authentication Methods,ProdID-32589,Red,Vendor 69,Keep,2099,2024000
 Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-30277,Red,Vendor 37,Keep,2099,809000
-Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-18368,Blue,Vendor 16,Keep,2099,2298000
+Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-18368,Green,Vendor 16,Keep,2099,2298000
 Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-24899,Red,Vendor 34,Keep,2099,2639000
 Security,Data Protection,Encryption & Key Management,Certificate Lifecycle Management,ProdID-18356,Red,Vendor 29,Keep,2099,1693000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-25463,Blue,Vendor 8,Keep,2099,2206000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17719,Blue,Vendor 34,Keep,2099,2401000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-25463,Green,Vendor 8,Keep,2099,2206000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17719,Green,Vendor 34,Keep,2099,2401000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-30568,Red,Vendor 24,Keep,2099,2520000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-29968,Red,Vendor 83,Keep,2099,741000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-23847,Red,Vendor 79,Keep,2099,398000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-12485,Blue,Vendor 83,Keep,2099,2383000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-12485,Green,Vendor 83,Keep,2099,2383000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-24583,Red,Vendor 30,Keep,2099,241000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-27160,Red,Vendor 21,Keep,2099,1012000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17720,Blue,Vendor 82,Keep,2099,2480000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17720,Green,Vendor 82,Keep,2099,2480000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-12143,Red,Vendor 7,Keep,2099,447000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-14499,Red,Vendor 27,Keep,2099,2139000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-20409,Red,Vendor 37,Keep,2099,445000
@@ -210,29 +210,29 @@ Security,Identity & Access Management,Access Management and Governance (Workforc
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-17718,Red,Vendor 71,Keep,2099,2120000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-25693,Red,Vendor 51,Keep,2099,380000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-12739,Red,Vendor 7,Keep,2099,949000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-4647,Blue,Vendor 85,Keep,2099,736000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Certify Security Definitions,ProdID-4647,Green,Vendor 85,Keep,2099,736000
 Security,Identity & Access Management,Identity Management (Clients),Client Identifier Generation,ProdID-9240,Red,Vendor 12,Keep,2099,27000
-Security,Identity & Access Management,Identity Management (Clients),"Client Identity Request, Modification and Deletion",ProdID-33033,Blue,Vendor 42,Keep,2099,2463000
+Security,Identity & Access Management,Identity Management (Clients),"Client Identity Request, Modification and Deletion",ProdID-33033,Green,Vendor 42,Keep,2099,2463000
 Security,Identity & Access Management,Identity Management (Clients),Client User Onboarding and Identity Creation,ProdID-30256,Red,Vendor 53,Keep,2099,2297000
 Security,Identity & Access Management,Identity Management (Clients),Client User Onboarding and Identity Creation,ProdID-623,Red,Vendor 2,Keep,2099,2617000
 Security,Data Protection,Data Usage Monitoring,Cloud Access Security Broker (CASB),ProdID-30145,Red,Vendor 74,Keep,2099,1654000
-Security,Data Protection,Encryption & Key Management,Cloud Key Management,ProdID-30819,Blue,Vendor 4,Keep,2099,2293000
+Security,Data Protection,Encryption & Key Management,Cloud Key Management,ProdID-30819,Green,Vendor 4,Keep,2099,2293000
 Security,Identity & Access Management,Privilege Access Management,Conditional Access,ProdID-31454,Red,Vendor 52,Keep,2099,1028000
 Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-32666,Red,Vendor 72,Keep,2099,1989000
 Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-28307,Red,Vendor 66,Keep,2099,779000
-Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-33826,Blue,Vendor 33,Keep,2099,2587000
+Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-33826,Green,Vendor 33,Keep,2099,2587000
 Security,Cyber Security,Threat Defence Analysis,Control Gap Analysis,ProdID-34096,Red,Vendor 88,Keep,2099,1178000
 Security,Data Protection,Document Management,Cryptographic Document Signing,ProdID-17642,Red,Vendor 37,Keep,2099,1578000
 Security,Cyber Security,Security Analytics,Data Analytics and Machine Learning,ProdID-27985,Red,Vendor 37,Keep,2099,2578000
 Security,Data Protection,Data Usage Monitoring,Data Classification,ProdID-34390,Red,Vendor 19,Keep,2099,230000
-Security,Data Protection,Data Usage Monitoring,Data Visibility,ProdID-26224,Blue,Vendor 3,Keep,2099,831000
+Security,Data Protection,Data Usage Monitoring,Data Visibility,ProdID-26224,Green,Vendor 3,Keep,2099,831000
 Security,Network Security,Network Protection,DDoS Protection,ProdID-31326,Red,Vendor 4,Keep,2099,87000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-25463,Red,Vendor 40,Keep,2099,873000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17719,Blue,Vendor 87,Keep,2099,2040000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17719,Green,Vendor 87,Keep,2099,2040000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-4638,Red,Vendor 88,Keep,2099,1112000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-30568,Red,Vendor 35,Keep,2099,2953000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-23847,Blue,Vendor 73,Keep,2099,2665000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-12485,Blue,Vendor 30,Keep,2099,820000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-23847,Green,Vendor 73,Keep,2099,2665000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-12485,Green,Vendor 30,Keep,2099,820000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17720,Red,Vendor 46,Keep,2099,837000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-12143,Red,Vendor 13,Keep,2099,143000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-18845,Red,Vendor 89,Keep,2099,1598000
@@ -242,55 +242,55 @@ Security,Identity & Access Management,Access Management and Governance (Workforc
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-25693,Red,Vendor 67,Keep,2099,141000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-12739,Red,Vendor 52,Keep,2099,333000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Define Security Definitions,ProdID-17464,Red,Vendor 27,Keep,2099,2132000
-Security,Cyber Security,Security Analytics,Detection Use Case Management,ProdID-17669,Blue,Vendor 77,Keep,2099,1650000
+Security,Cyber Security,Security Analytics,Detection Use Case Management,ProdID-17669,Green,Vendor 77,Keep,2099,1650000
 Security,Physical & Device Security,IoT Security,Device Management,ProdID-33698,Red,Vendor 30,Keep,2099,1958000
-Security,Physical & Device Security,IoT Security,Device Management,ProdID-29274,Blue,Vendor 22,Keep,2099,884000
+Security,Physical & Device Security,IoT Security,Device Management,ProdID-29274,Green,Vendor 22,Keep,2099,884000
 Security,Application Security,Secure Integration,Dynamic Application Security Testing,ProdID-32486,Red,Vendor 69,Keep,2099,2384000
-Security,Application Security,Secure Integration,Dynamic Application Security Testing,ProdID-34084,Blue,Vendor 71,Keep,2099,1807000
+Security,Application Security,Secure Integration,Dynamic Application Security Testing,ProdID-34084,Green,Vendor 71,Keep,2099,1807000
 Security,Application Security,Secure Integration,Dynamic Application Security Testing,ProdID-33824,Red,Vendor 38,Keep,2099,2039000
 Security,Data Protection,Data Usage Monitoring,E-Discovery Software,ProdID-24770,Red,Vendor 22,Keep,2099,2852000
-Security,Data Protection,Data Usage Monitoring,E-Discovery Software,ProdID-29156,Blue,Vendor 71,Keep,2099,203000
+Security,Data Protection,Data Usage Monitoring,E-Discovery Software,ProdID-29156,Green,Vendor 71,Keep,2099,203000
 Security,Data Protection,Data Usage Monitoring,Email DLP,ProdID-18808,Red,Vendor 79,Keep,2099,2368000
-Security,Identity & Access Management,Privilege Access Management,Emergency Access Management (BreakGlass),ProdID-18844,Blue,Vendor 59,Keep,2099,2415000
+Security,Identity & Access Management,Privilege Access Management,Emergency Access Management (BreakGlass),ProdID-18844,Green,Vendor 59,Keep,2099,2415000
 Security,Identity & Access Management,Privilege Access Management,Emergency Access Management (BreakGlass),ProdID-15834,Red,Vendor 2,Keep,2099,2700000
 Security,Cyber Security,Threat Detection & Response,Endpoint Detection and Response,ProdID-20767,Red,Vendor 35,Keep,2099,2119000
-Security,Cyber Security,Threat Detection & Response,Endpoint Detection and Response,ProdID-29906,Blue,Vendor 27,Keep,2099,590000
+Security,Cyber Security,Threat Detection & Response,Endpoint Detection and Response,ProdID-29906,Green,Vendor 27,Keep,2099,590000
 Security,Cyber Security,Threat Detection & Response,Endpoint Detection and Response,ProdID-34175,Red,Vendor 56,Keep,2099,1907000
 Security,End User System Security,Data Protection,Endpoint DLP,ProdID-17665,Red,Vendor 47,Keep,2099,2404000
-Security,End User System Security,Data Protection,Endpoint DLP,ProdID-30830,Blue,Vendor 33,Keep,2099,2877000
+Security,End User System Security,Data Protection,Endpoint DLP,ProdID-30830,Green,Vendor 33,Keep,2099,2877000
 Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-17461,Red,Vendor 88,Keep,2099,617000
 Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-17458,Red,Vendor 69,Keep,2099,296000
 Security,Cyber Security,Threat Detection & Response,Exploit Prevention and Memory Protection,ProdID-15431,Red,Vendor 72,Keep,2099,1127000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-17717,Red,Vendor 83,Keep,2099,593000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-32363,Red,Vendor 44,Keep,2099,1770000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-27370,Red,Vendor 25,Keep,2099,2416000
-Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-26711,Blue,Vendor 83,Keep,2099,2345000
+Security,Identity & Access Management,Authentication and Federation,Federated Identity Authorization,ProdID-26711,Green,Vendor 83,Keep,2099,2345000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-17700,Red,Vendor 55,Keep,2099,1639000
-Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32549,Blue,Vendor 43,Keep,2099,2104000
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32549,Green,Vendor 43,Keep,2099,2104000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-34196,Red,Vendor 80,Keep,2099,2718000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-34251,Red,Vendor 75,Keep,2099,688000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32546,Red,Vendor 62,Keep,2099,2031000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33214,Red,Vendor 35,Keep,2099,874000
-Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32803,Blue,Vendor 24,Keep,2099,664000
-Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-26711,Blue,Vendor 19,Keep,2099,2821000
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32803,Green,Vendor 24,Keep,2099,664000
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-26711,Green,Vendor 19,Keep,2099,2821000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32548,Red,Vendor 48,Keep,2099,1499000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-27446,Red,Vendor 8,Keep,2099,1394000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-25741,Red,Vendor 71,Keep,2099,2843000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33351,Red,Vendor 61,Keep,2099,185000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33414,Red,Vendor 1,Keep,2099,2339000
-Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32552,Blue,Vendor 73,Keep,2099,2731000
-Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33415,Blue,Vendor 22,Keep,2099,1770000
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-32552,Green,Vendor 73,Keep,2099,2731000
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33415,Green,Vendor 22,Keep,2099,1770000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33348,Red,Vendor 38,Keep,2099,2000
-Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33561,Blue,Vendor 21,Keep,2099,885000
+Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-33561,Green,Vendor 21,Keep,2099,885000
 Security,Identity & Access Management,Authentication and Federation,Federated Identity/SSO,ProdID-26466,Red,Vendor 29,Keep,2099,1885000
 Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-33021,Red,Vendor 48,Keep,2099,1837000
-Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-28385,Blue,Vendor 87,Keep,2099,2755000
+Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-28385,Green,Vendor 87,Keep,2099,2755000
 Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-23768,Red,Vendor 22,Keep,2099,128000
 Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-29305,Red,Vendor 44,Keep,2099,2942000
 Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-26185,Red,Vendor 72,Keep,2099,602000
 Security,Cyber Security,Threat Detection & Response,Forensic Investigation,ProdID-24769,Red,Vendor 51,Keep,2099,1038000
 Security,GRC,Compliance,GRC,ProdID-15780,Red,Vendor 24,Keep,2099,2857000
-Security,GRC,Compliance,GRC,ProdID-30795,Blue,Vendor 5,Keep,2099,2689000
+Security,GRC,Compliance,GRC,ProdID-30795,Green,Vendor 5,Keep,2099,2689000
 Security,Data Protection,Encryption & Key Management,HSM - Extension of storage,ProdID-26223,Red,Vendor 13,Keep,2099,58000
 Security,Data Protection,Encryption & Key Management,HSM - Extension of storage,ProdID-33739,Red,Vendor 35,Keep,2099,566000
 Security,Data Protection,Encryption & Key Management,HSM - Request for encryption and/or key management,ProdID-34276,Red,Vendor 45,Keep,2099,245000
@@ -301,30 +301,30 @@ Security,Cyber Security,Threat Detection & Response,Incident Management / Respon
 Security,Cyber Security,Threat Detection & Response,Incident Management / Response,ProdID-32899,Red,Vendor 27,Keep,2099,985000
 Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-31308,Red,Vendor 67,Keep,2099,2044000
 Security,Cyber Security,Cyber Threat Intelligence,Intelligence Analysis,ProdID-32622,Red,Vendor 68,Keep,2099,1358000
-Security,Application Security,Secure Integration,Interactive Application Security Testing,ProdID-31531,Blue,Vendor 38,Keep,2099,2218000
+Security,Application Security,Secure Integration,Interactive Application Security Testing,ProdID-31531,Green,Vendor 38,Keep,2099,2218000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-30569,Red,Vendor 38,Keep,2099,2529000
-Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-19301,Blue,Vendor 35,Keep,2099,683000
-Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-27899,Blue,Vendor 24,Keep,2099,573000
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-19301,Green,Vendor 35,Keep,2099,683000
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-27899,Green,Vendor 24,Keep,2099,573000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-26231,Red,Vendor 82,Keep,2099,2160000
-Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-22695,Blue,Vendor 51,Keep,2099,664000
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-22695,Green,Vendor 51,Keep,2099,664000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-29681,Red,Vendor 52,Keep,2099,2654000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-24436,Red,Vendor 5,Keep,2099,329000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-25845,Red,Vendor 87,Keep,2099,2799000
-Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-19889,Blue,Vendor 63,Keep,2099,1270000
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-19889,Green,Vendor 63,Keep,2099,1270000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-23946,Red,Vendor 39,Keep,2099,2256000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-12889,Red,Vendor 17,Keep,2099,2295000
-Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-28369,Blue,Vendor 87,Keep,2099,1120000
+Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-28369,Green,Vendor 87,Keep,2099,1120000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-20651,Red,Vendor 22,Keep,2099,129000
 Security,Data Protection,Data Usage Monitoring,IRM Classification & Encryption,ProdID-26868,Red,Vendor 16,Keep,2099,2128000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17719,Red,Vendor 1,Keep,2099,2646000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-4638,Red,Vendor 63,Keep,2099,638000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-30568,Blue,Vendor 43,Keep,2099,1868000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-30568,Green,Vendor 43,Keep,2099,1868000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-23847,Red,Vendor 74,Keep,2099,2485000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-12485,Red,Vendor 23,Keep,2099,2143000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-24583,Red,Vendor 40,Keep,2099,2567000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-46,Red,Vendor 86,Keep,2099,599000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-27160,Red,Vendor 50,Keep,2099,1013000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-30924,Blue,Vendor 15,Keep,2099,2845000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-30924,Green,Vendor 15,Keep,2099,2845000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17720,Red,Vendor 80,Keep,2099,51000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-12143,Red,Vendor 52,Keep,2099,2374000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-18845,Red,Vendor 1,Keep,2099,2208000
@@ -334,28 +334,28 @@ Security,Identity & Access Management,Access Management and Governance (Workforc
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17718,Red,Vendor 52,Keep,2099,693000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-12739,Red,Vendor 20,Keep,2099,1702000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-17464,Red,Vendor 59,Keep,2099,788000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-4647,Blue,Vendor 27,Keep,2099,1046000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Joiner/Mover/Leaver Control Implementation,ProdID-4647,Green,Vendor 27,Keep,2099,1046000
 Security,Cyber Security,Threat Detection & Response,Lessons Learned,ProdID-32267,Red,Vendor 44,Keep,2099,1000000
 Security,Cyber Security,Threat Detection & Response,Lessons Learned,ProdID-31984,Red,Vendor 40,Keep,2099,2527000
-Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-33120,Blue,Vendor 2,Keep,2099,2646000
+Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-33120,Green,Vendor 2,Keep,2099,2646000
 Security,Cyber Security,Security Analytics,Log Aggregation and Management,ProdID-32487,Red,Vendor 46,Keep,2099,1490000
 Security,Network Security,Network Protection,Macro-Segmentation,ProdID-23652,Red,Vendor 88,Keep,2099,601000
-Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-33650,Blue,Vendor 61,Keep,2099,2730000
+Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-33650,Green,Vendor 61,Keep,2099,2730000
 Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-33647,Red,Vendor 54,Keep,2099,2540000
 Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-32271,Red,Vendor 73,Keep,2099,1882000
-Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-34291,Blue,Vendor 74,Keep,2099,917000
+Security,Cyber Security,Threat Detection & Response,Malware Analysis,ProdID-34291,Green,Vendor 74,Keep,2099,917000
 Security,Network Security,Network Protection,Micro-Segmentation,ProdID-33397,Red,Vendor 55,Keep,2099,732000
 Security,End User System Security,Endpoint Protection,Mobile Policy Enforcement,ProdID-34168,Red,Vendor 58,Keep,2099,2009000
 Security,End User System Security,Endpoint Protection,Mobile Policy Enforcement,ProdID-34169,Red,Vendor 81,Keep,2099,319000
 Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-28593,Red,Vendor 19,Keep,2099,1213000
-Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-33460,Blue,Vendor 4,Keep,2099,421000
+Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-33460,Green,Vendor 4,Keep,2099,421000
 Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-14342,Red,Vendor 66,Keep,2099,1440000
 Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-33240,Red,Vendor 62,Keep,2099,760000
 Security,Identity & Access Management,Authentication and Federation,Multi-factor Authentication,ProdID-18377,Red,Vendor 52,Keep,2099,2673000
 Security,Network Security,Secure Network and Internet Access,Network Access Control,ProdID-26036,Red,Vendor 6,Keep,2099,1354000
 Security,Network Security,Secure Network and Internet Access,Network Access Control,ProdID-23154,Red,Vendor 66,Keep,2099,199000
 Security,Network Security,Secure Network and Internet Access,Network Access Control,ProdID-20602,Red,Vendor 74,Keep,2099,507000
-Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-23229,Blue,Vendor 1,Keep,2099,2698000
+Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-23229,Green,Vendor 1,Keep,2099,2698000
 Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-4254,Red,Vendor 73,Keep,2099,1873000
 Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-23159,Red,Vendor 78,Keep,2099,897000
 Security,Network Security,Network Security Management,Network Security Configuration Management,ProdID-30466,Red,Vendor 13,Keep,2099,166000
@@ -366,51 +366,51 @@ Security,Identity & Access Management,Privilege Access Management,Nonstandard Ap
 Security,Identity & Access Management,Credentials,Password Management,ProdID-18844,Red,Vendor 5,Keep,2099,2098000
 Security,Identity & Access Management,Credentials,Password Management,ProdID-372,Red,Vendor 33,Keep,2099,2118000
 Security,Identity & Access Management,Credentials,Password Management,ProdID-28568,Red,Vendor 16,Keep,2099,2129000
-Security,End User System Security,Endpoint Protection,Phishing and Spam Detection,ProdID-34095,Blue,Vendor 73,Keep,2099,2866000
+Security,End User System Security,Endpoint Protection,Phishing and Spam Detection,ProdID-34095,Green,Vendor 73,Keep,2099,2866000
 Security,End User System Security,Endpoint Protection,Phishing and Spam Detection,ProdID-31175,Red,Vendor 65,Keep,2099,820000
 Security,End User System Security,Endpoint Protection,Phishing and Spam Detection,ProdID-25594,Red,Vendor 58,Keep,2099,2615000
 Security,Physical & Device Security,Physical Access Systems,Physical Access Systems - PIAM,ProdID-12383,Red,Vendor 24,Keep,2099,663000
 Security,Network Security,Network Protection,Physical Firewall Boundary,ProdID-23652,Red,Vendor 76,Keep,2099,2663000
 Security,Network Security,Network Protection,Physical Firewall Boundary,ProdID-19628,Red,Vendor 69,Keep,2099,840000
-Security,Identity & Access Management,Credentials,PKI Management,ProdID-18380,Blue,Vendor 8,Keep,2099,1855000
+Security,Identity & Access Management,Credentials,PKI Management,ProdID-18380,Green,Vendor 8,Keep,2099,1855000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4950,Red,Vendor 36,Keep,2099,1949000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-25463,Red,Vendor 15,Keep,2099,1012000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4638,Blue,Vendor 28,Keep,2099,400000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-30568,Blue,Vendor 9,Keep,2099,396000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4638,Green,Vendor 28,Keep,2099,400000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-30568,Green,Vendor 9,Keep,2099,396000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-31588,Red,Vendor 38,Keep,2099,2431000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-23847,Blue,Vendor 15,Keep,2099,2065000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-23847,Green,Vendor 15,Keep,2099,2065000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-12485,Red,Vendor 37,Keep,2099,2777000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-46,Red,Vendor 8,Keep,2099,915000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-30924,Blue,Vendor 64,Keep,2099,444000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-30924,Green,Vendor 64,Keep,2099,444000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17720,Red,Vendor 10,Keep,2099,1338000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-12143,Blue,Vendor 28,Keep,2099,2185000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-12143,Green,Vendor 28,Keep,2099,2185000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-18845,Red,Vendor 51,Keep,2099,1746000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-14499,Blue,Vendor 69,Keep,2099,1004000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-14499,Green,Vendor 69,Keep,2099,1004000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-14987,Red,Vendor 13,Keep,2099,425000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17718,Red,Vendor 25,Keep,2099,2396000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-25693,Blue,Vendor 33,Keep,2099,2985000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-25693,Green,Vendor 33,Keep,2099,2985000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-12739,Red,Vendor 51,Keep,2099,2058000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-23154,Red,Vendor 55,Keep,2099,773000
 Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-17464,Red,Vendor 70,Keep,2099,1834000
-Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4647,Blue,Vendor 28,Keep,2099,1083000
+Security,Identity & Access Management,Access Management and Governance (Workforce),Policy Enforcement,ProdID-4647,Green,Vendor 28,Keep,2099,1083000
 Security,Identity & Access Management,Privilege Access Management,Privilege Elevation and Delegation Management,ProdID-32534,Red,Vendor 89,Keep,2099,1269000
 Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-18844,Red,Vendor 84,Keep,2099,1583000
-Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-26006,Blue,Vendor 72,Keep,2099,73000
+Security,Identity & Access Management,Privilege Access Management,Privileged Access Review (PAR),ProdID-26006,Green,Vendor 72,Keep,2099,73000
 Security,Application Security,Secure Development,"Process, Integration & Orchestration",ProdID-34085,Red,Vendor 61,Keep,2099,729000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33440,Red,Vendor 13,Keep,2099,880000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33435,Red,Vendor 7,Keep,2099,467000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-31996,Red,Vendor 78,Keep,2099,724000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-32060,Red,Vendor 87,Keep,2099,1275000
-Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33436,Blue,Vendor 34,Keep,2099,2137000
+Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33436,Green,Vendor 34,Keep,2099,2137000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33437,Red,Vendor 64,Keep,2099,1980000
 Security,Cyber Security,Threat Defence Analysis,Red Teaming,ProdID-33438,Red,Vendor 4,Keep,2099,2478000
 Security,Application Security,Secure Integration,Release Management,ProdID-34107,Red,Vendor 21,Keep,2099,1328000
-Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-33416,Blue,Vendor 18,Keep,2099,1601000
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-33416,Green,Vendor 18,Keep,2099,1601000
 Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-32266,Red,Vendor 4,Keep,2099,2725000
 Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-9555,Red,Vendor 39,Keep,2099,2014000
 Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-29980,Red,Vendor 13,Keep,2099,1139000
-Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-27699,Blue,Vendor 31,Keep,2099,1005000
-Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-19541,Blue,Vendor 35,Keep,2099,1430000
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-27699,Green,Vendor 31,Keep,2099,1005000
+Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-19541,Green,Vendor 35,Keep,2099,1430000
 Security,Network Security,Secure Network and Internet Access,Reverse Proxy Gateway,ProdID-17714,Red,Vendor 85,Keep,2099,2187000
 Security,GRC,Risk,Risk Culture,ProdID-34269,Red,Vendor 14,Keep,2099,1107000
 Security,GRC,Risk,Risk Culture,ProdID-31418,Red,Vendor 86,Keep,2099,421000
@@ -418,36 +418,36 @@ Security,GRC,Risk,Risk Management,ProdID-33905,Red,Vendor 75,Keep,2099,155000
 Security,Application Security,Secure Environment,Root Cause Analysis,ProdID-33825,Red,Vendor 74,Keep,2099,2656000
 Security,Identity & Access Management,Authorisation,Rule-based authorisation,ProdID-20090,Red,Vendor 27,Keep,2099,72000
 Security,Identity & Access Management,Credentials,Secrets Management - IDAM Specific,ProdID-34338,Red,Vendor 63,Keep,2099,227000
-Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-31122,Blue,Vendor 78,Keep,2099,619000
-Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-19076,Blue,Vendor 66,Keep,2099,1201000
+Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-31122,Green,Vendor 78,Keep,2099,619000
+Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-19076,Green,Vendor 66,Keep,2099,1201000
 Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-33159,Red,Vendor 59,Keep,2099,201000
 Security,Cyber Security,Attack Surface Reduction,Secure Configuration Scanning,ProdID-23429,Red,Vendor 56,Keep,2099,1678000
 Security,GRC,Governance,Security Assurance,ProdID-31061,Red,Vendor 1,Keep,2099,1628000
-Security,GRC,Governance,Security Assurance,ProdID-32988,Blue,Vendor 26,Keep,2099,1376000
+Security,GRC,Governance,Security Assurance,ProdID-32988,Green,Vendor 26,Keep,2099,1376000
 Security,GRC,Governance,Security Assurance,ProdID-34275,Red,Vendor 86,Keep,2099,1857000
 Security,GRC,Governance,Security Assurance,ProdID-20667,Red,Vendor 47,Keep,2099,1167000
-Security,Network Security,Network Security Management,Security Configuration Check,ProdID-24835,Blue,Vendor 68,Keep,2099,403000
+Security,Network Security,Network Security Management,Security Configuration Check,ProdID-24835,Green,Vendor 68,Keep,2099,403000
 Security,Cyber Security,Security Analytics,Security Incident and Event Management (SIEM),ProdID-34007,Red,Vendor 69,Keep,2099,1572000
-Security,Cyber Security,Security Analytics,Security Incident and Event Management (SIEM),ProdID-33158,Blue,Vendor 68,Keep,2099,1972000
+Security,Cyber Security,Security Analytics,Security Incident and Event Management (SIEM),ProdID-33158,Green,Vendor 68,Keep,2099,1972000
 Security,Data Protection,Data Discovery,Sensitive Data Discovery,ProdID-32466,Red,Vendor 75,Keep,2099,780000
 Security,Identity & Access Management,Authentication and Federation,Session Management,ProdID-18844,Red,Vendor 24,Keep,2099,2467000
 Security,Identity & Access Management,Authentication and Federation,Single Sign On (SSO),ProdID-32547,Red,Vendor 88,Keep,2099,1809000
 Security,Identity & Access Management,Authentication and Federation,Single Sign On (SSO),ProdID-9555,Red,Vendor 72,Keep,2099,92000
 Security,Application Security,Secure Integration,Static Application Security Testing,ProdID-33850,Red,Vendor 23,Keep,2099,1992000
-Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-13834,Blue,Vendor 78,Keep,2099,514000
-Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-26629,Blue,Vendor 72,Keep,2099,678000
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-13834,Green,Vendor 78,Keep,2099,514000
+Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-26629,Green,Vendor 72,Keep,2099,678000
 Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-19965,Red,Vendor 80,Keep,2099,580000
 Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-31755,Red,Vendor 19,Keep,2099,1234000
 Security,Data Protection,Structured Data Security,Structured Data Encryption,ProdID-25755,Red,Vendor 23,Keep,2099,2436000
-Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-31023,Blue,Vendor 42,Keep,2099,301000
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-31023,Green,Vendor 42,Keep,2099,301000
 Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-31454,Red,Vendor 87,Keep,2099,1843000
 Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-18844,Red,Vendor 26,Keep,2099,876000
-Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-30703,Blue,Vendor 24,Keep,2099,875000
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-30703,Green,Vendor 24,Keep,2099,875000
 Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-27160,Red,Vendor 5,Keep,2099,882000
 Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-31055,Red,Vendor 47,Keep,2099,2310000
-Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-33263,Blue,Vendor 36,Keep,2099,2050000
+Security,Identity & Access Management,Privilege Access Management,Temporary Privileged Access (Planned & Unplanned),ProdID-33263,Green,Vendor 36,Keep,2099,2050000
 Security,End User System Security,Endpoint Protection,Third-Party Integration (API ext),ProdID-24526,Red,Vendor 86,Keep,2099,2939000
-Security,Cyber Security,Threat Defence Analysis,Threat Modelling,ProdID-31296,Blue,Vendor 1,Keep,2099,1844000
+Security,Cyber Security,Threat Defence Analysis,Threat Modelling,ProdID-31296,Green,Vendor 1,Keep,2099,1844000
 Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-19300,Red,Vendor 50,Keep,2099,1323000
 Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-4671,Red,Vendor 77,Keep,2099,660000
 Security,Identity & Access Management,Authentication and Federation,Token Management,ProdID-29423,Red,Vendor 84,Keep,2099,2086000
@@ -455,15 +455,15 @@ Security,Identity & Access Management,Authentication and Federation,Token Manage
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-26629,Red,Vendor 25,Keep,2099,2245000
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-19965,Red,Vendor 55,Keep,2099,661000
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-19964,Red,Vendor 10,Keep,2099,877000
-Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-29637,Blue,Vendor 20,Keep,2099,1947000
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-29637,Green,Vendor 20,Keep,2099,1947000
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-12889,Red,Vendor 81,Keep,2099,1058000
-Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-26341,Blue,Vendor 69,Keep,2099,1332000
+Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-26341,Green,Vendor 69,Keep,2099,1332000
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-25755,Red,Vendor 2,Keep,2099,1179000
 Security,Data Protection,Unstructured Data Security,Unstructured Data Encryption,ProdID-31985,Red,Vendor 15,Keep,2099,261000
 Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-33225,Red,Vendor 86,Keep,2099,2826000
 Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-32443,Red,Vendor 56,Keep,2099,1644000
 Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-26204,Red,Vendor 4,Keep,2099,2873000
-Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-28394,Blue,Vendor 74,Keep,2099,1092000
+Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-28394,Green,Vendor 74,Keep,2099,1092000
 Security,Network Security,Secure Network and Internet Access,URL Restriction,ProdID-18751,Red,Vendor 1,Keep,2099,395000
 Security,Cyber Security,Security Analytics,User Entity and Behaviour Analysis,ProdID-32007,Red,Vendor 22,Keep,2099,2098000
 Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-31122,Red,Vendor 79,Keep,2099,2183000
@@ -471,9 +471,9 @@ Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-3
 Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-30321,Red,Vendor 84,Keep,2099,1853000
 Security,Cyber Security,Attack Surface Reduction,Vulnerability Scanning,ProdID-26502,Red,Vendor 20,Keep,2099,557000
 Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-27140,Red,Vendor 16,Keep,2099,1346000
-Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-18808,Blue,Vendor 1,Keep,2099,650000
+Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-18808,Green,Vendor 1,Keep,2099,650000
 Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-33271,Red,Vendor 58,Keep,2099,1409000
-Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-32912,Blue,Vendor 63,Keep,2099,2127000
+Security,Data Protection,Data Usage Monitoring,Web DLP,ProdID-32912,Green,Vendor 63,Keep,2099,2127000
 Security,Cyber Security,Security Orchestration and Automation,Workflow and Automation,ProdID-31297,Red,Vendor 55,Keep,2099,1228000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identifier Generation (Internal Users),ProdID-27159,Red,Vendor 69,Keep,2099,1266000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identifier Generation (Internal Users),ProdID-9519,Red,Vendor 23,Keep,2099,362000
@@ -481,13 +481,13 @@ Security,Identity & Access Management,Identity Management (Workforce),Workforce 
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-26815,Red,Vendor 44,Keep,2099,1545000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-372,Red,Vendor 7,Keep,2099,972000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-31987,Red,Vendor 27,Keep,2099,1284000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-17861,Blue,Vendor 23,Keep,2099,1510000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-17861,Green,Vendor 23,Keep,2099,1510000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-29596,Red,Vendor 4,Keep,2099,1133000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity and Access Object Distribution,ProdID-9525,Red,Vendor 88,Keep,2099,907000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-27159,Red,Vendor 54,Keep,2099,968000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-9240,Red,Vendor 57,Keep,2099,356000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-31987,Blue,Vendor 17,Keep,2099,1212000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-19493,Blue,Vendor 8,Keep,2099,2323000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-31987,Green,Vendor 17,Keep,2099,1212000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-19493,Green,Vendor 8,Keep,2099,2323000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-32380,Red,Vendor 33,Keep,2099,1532000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Lifecycle Management and Identity Data Provision,ProdID-34174,Red,Vendor 58,Keep,2099,2418000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Provisioning,ProdID-29622,Red,Vendor 27,Keep,2099,1002000
@@ -499,14 +499,14 @@ Security,Identity & Access Management,Identity Management (Workforce),Workforce 
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-11383,Red,Vendor 27,Keep,2099,1489000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-17718,Red,Vendor 57,Keep,2099,1439000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-25741,Red,Vendor 40,Keep,2099,240000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-14094,Blue,Vendor 19,Keep,2099,2225000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33226,Blue,Vendor 81,Keep,2099,755000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-14094,Green,Vendor 19,Keep,2099,2225000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33226,Green,Vendor 81,Keep,2099,755000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-34148,Red,Vendor 54,Keep,2099,114000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33269,Blue,Vendor 40,Keep,2099,2255000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33269,Green,Vendor 40,Keep,2099,2255000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33270,Red,Vendor 34,Keep,2099,218000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33268,Red,Vendor 75,Keep,2099,1835000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-33267,Red,Vendor 3,Keep,2099,2161000
-Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-26466,Blue,Vendor 37,Keep,2099,1895000
+Security,Identity & Access Management,Identity Management (Workforce),Workforce Identity Repository,ProdID-26466,Green,Vendor 37,Keep,2099,1895000
 Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-32108,Red,Vendor 85,Keep,2099,2204000
-Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-9519,Blue,Vendor 22,Keep,2099,2016000
+Security,Identity & Access Management,Identity Management (Workforce),"Workforce Identity Request, Modification and Deletion",ProdID-9519,Green,Vendor 22,Keep,2099,2016000
 Security,Identity & Access Management,Identity Management (Workforce),Workforce User Onboarding and Identity Creation,ProdID-9519,Red,Vendor 60,Keep,2099,1441000
