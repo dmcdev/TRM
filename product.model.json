@@ -1,0 +1,3899 @@
+{
+    "Security": {
+        "Identity & Access Management": {
+            "Access Management and Governance (Workforce)": {
+                "Access Approval": {
+                    "ProdID-17719": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 2",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 1692000
+                    },
+                    "ProdID-4638": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 64",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 538000
+                    },
+                    "ProdID-24583": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 3",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 201000
+                    },
+                    "ProdID-17720": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 46",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2176000
+                    },
+                    "ProdID-25693": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 56",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2423000
+                    },
+                    "ProdID-4647": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 455000
+                    },
+                    "ProdID-4950": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 11",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 246000
+                    },
+                    "ProdID-25463": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1105000
+                    },
+                    "ProdID-30568": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 59",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2828000
+                    },
+                    "ProdID-31588": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 73",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 793000
+                    },
+                    "ProdID-23847": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 191000
+                    },
+                    "ProdID-12485": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1083000
+                    },
+                    "ProdID-46": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 3",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1337000
+                    },
+                    "ProdID-30924": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2919000
+                    },
+                    "ProdID-400": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1066000
+                    },
+                    "ProdID-12143": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2796000
+                    },
+                    "ProdID-18845": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2765000
+                    },
+                    "ProdID-14499": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 34",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2140000
+                    },
+                    "ProdID-20409": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 49",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1989000
+                    },
+                    "ProdID-14987": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 60",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1724000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 20",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2030000
+                    },
+                    "ProdID-17464": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 28",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1125000
+                    }
+                },
+                "Access Certification": {
+                    "ProdID-4638": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2972000
+                    },
+                    "ProdID-29968": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 34",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 870000
+                    },
+                    "ProdID-23847": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 65",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 236000
+                    },
+                    "ProdID-12485": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1558000
+                    },
+                    "ProdID-27160": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 59",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1631000
+                    },
+                    "ProdID-17720": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 12",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1767000
+                    },
+                    "ProdID-12143": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 1616000
+                    },
+                    "ProdID-12739": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 5",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1030000
+                    },
+                    "ProdID-4647": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 84",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2053000
+                    },
+                    "ProdID-25463": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 81",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1286000
+                    },
+                    "ProdID-17719": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2069000
+                    },
+                    "ProdID-30568": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 3",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2923000
+                    },
+                    "ProdID-24583": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 9",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2535000
+                    },
+                    "ProdID-46": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1502000
+                    },
+                    "ProdID-30924": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 10",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1085000
+                    },
+                    "ProdID-11209": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 70",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2278000
+                    },
+                    "ProdID-18845": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 67",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2683000
+                    },
+                    "ProdID-14499": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 249000
+                    },
+                    "ProdID-20409": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1063000
+                    },
+                    "ProdID-14987": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 41",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1017000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 3",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1432000
+                    },
+                    "ProdID-25693": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1024000
+                    },
+                    "ProdID-17464": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2353000
+                    }
+                },
+                "Access Request": {
+                    "ProdID-17719": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 41",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 367000
+                    },
+                    "ProdID-30568": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1883000
+                    },
+                    "ProdID-23847": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 64",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 1506000
+                    },
+                    "ProdID-12485": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1016000
+                    },
+                    "ProdID-46": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 82",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 665000
+                    },
+                    "ProdID-25693": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 46",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1893000
+                    },
+                    "ProdID-17464": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2903000
+                    },
+                    "ProdID-4950": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 32",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1560000
+                    },
+                    "ProdID-25463": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 28",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2451000
+                    },
+                    "ProdID-4638": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 80",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 387000
+                    },
+                    "ProdID-31588": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 760000
+                    },
+                    "ProdID-24583": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2916000
+                    },
+                    "ProdID-30924": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 80",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1754000
+                    },
+                    "ProdID-17720": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 20",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1753000
+                    },
+                    "ProdID-12143": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 62",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1271000
+                    },
+                    "ProdID-18845": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2014000
+                    },
+                    "ProdID-14499": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 753000
+                    },
+                    "ProdID-20409": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 18",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2424000
+                    },
+                    "ProdID-14987": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 20",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1473000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 41",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 995000
+                    },
+                    "ProdID-25713": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 45",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1045000
+                    },
+                    "ProdID-4647": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 118000
+                    }
+                },
+                "Certify Security Definitions": {
+                    "ProdID-4638": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 16",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2008000
+                    },
+                    "ProdID-18845": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 17",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 389000
+                    },
+                    "ProdID-17464": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 81",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2330000
+                    },
+                    "ProdID-25463": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 8",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2206000
+                    },
+                    "ProdID-17719": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 34",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2401000
+                    },
+                    "ProdID-30568": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2520000
+                    },
+                    "ProdID-29968": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 83",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 741000
+                    },
+                    "ProdID-23847": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 79",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 398000
+                    },
+                    "ProdID-12485": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 83",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2383000
+                    },
+                    "ProdID-24583": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 241000
+                    },
+                    "ProdID-27160": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 21",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1012000
+                    },
+                    "ProdID-17720": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 82",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2480000
+                    },
+                    "ProdID-12143": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 7",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 447000
+                    },
+                    "ProdID-14499": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2139000
+                    },
+                    "ProdID-20409": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 37",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 445000
+                    },
+                    "ProdID-14987": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1648000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 71",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2120000
+                    },
+                    "ProdID-25693": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 51",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 380000
+                    },
+                    "ProdID-12739": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 7",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 949000
+                    },
+                    "ProdID-4647": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 736000
+                    }
+                },
+                "Define Security Definitions": {
+                    "ProdID-29968": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 6",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 294000
+                    },
+                    "ProdID-24583": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2819000
+                    },
+                    "ProdID-27160": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 83",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1191000
+                    },
+                    "ProdID-30924": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 80",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2565000
+                    },
+                    "ProdID-20409": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 50",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2328000
+                    },
+                    "ProdID-4647": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 7",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2356000
+                    },
+                    "ProdID-25463": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 40",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 873000
+                    },
+                    "ProdID-17719": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2040000
+                    },
+                    "ProdID-4638": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 88",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1112000
+                    },
+                    "ProdID-30568": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2953000
+                    },
+                    "ProdID-23847": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 73",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2665000
+                    },
+                    "ProdID-12485": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 820000
+                    },
+                    "ProdID-17720": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 46",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 837000
+                    },
+                    "ProdID-12143": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 143000
+                    },
+                    "ProdID-18845": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1598000
+                    },
+                    "ProdID-14499": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2858000
+                    },
+                    "ProdID-14987": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1464000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1734000
+                    },
+                    "ProdID-25693": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 67",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 141000
+                    },
+                    "ProdID-12739": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 333000
+                    },
+                    "ProdID-17464": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2132000
+                    }
+                },
+                "Joiner/Mover/Leaver Control Implementation": {
+                    "ProdID-25463": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2706000
+                    },
+                    "ProdID-25693": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 7",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2730000
+                    },
+                    "ProdID-17719": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2646000
+                    },
+                    "ProdID-4638": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 63",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 638000
+                    },
+                    "ProdID-30568": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 43",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1868000
+                    },
+                    "ProdID-23847": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2485000
+                    },
+                    "ProdID-12485": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 23",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2143000
+                    },
+                    "ProdID-24583": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 40",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2567000
+                    },
+                    "ProdID-46": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 86",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 599000
+                    },
+                    "ProdID-27160": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 50",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1013000
+                    },
+                    "ProdID-30924": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 15",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2845000
+                    },
+                    "ProdID-17720": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 80",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 51000
+                    },
+                    "ProdID-12143": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2374000
+                    },
+                    "ProdID-18845": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2208000
+                    },
+                    "ProdID-14499": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 270000
+                    },
+                    "ProdID-20409": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 17",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1391000
+                    },
+                    "ProdID-14987": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 60",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 671000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 693000
+                    },
+                    "ProdID-12739": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 20",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1702000
+                    },
+                    "ProdID-17464": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 59",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 788000
+                    },
+                    "ProdID-4647": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1046000
+                    }
+                },
+                "Policy Enforcement": {
+                    "ProdID-17719": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 61",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2667000
+                    },
+                    "ProdID-29968": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 9",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1828000
+                    },
+                    "ProdID-24583": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 58",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 641000
+                    },
+                    "ProdID-20409": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 77",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1657000
+                    },
+                    "ProdID-4950": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 36",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1949000
+                    },
+                    "ProdID-25463": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 15",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1012000
+                    },
+                    "ProdID-4638": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 28",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 400000
+                    },
+                    "ProdID-30568": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 9",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 396000
+                    },
+                    "ProdID-31588": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2431000
+                    },
+                    "ProdID-23847": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 15",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2065000
+                    },
+                    "ProdID-12485": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 37",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2777000
+                    },
+                    "ProdID-46": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 8",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 915000
+                    },
+                    "ProdID-30924": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 64",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 444000
+                    },
+                    "ProdID-17720": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 10",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1338000
+                    },
+                    "ProdID-12143": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 28",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2185000
+                    },
+                    "ProdID-18845": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 51",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1746000
+                    },
+                    "ProdID-14499": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1004000
+                    },
+                    "ProdID-14987": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 425000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 25",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2396000
+                    },
+                    "ProdID-25693": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2985000
+                    },
+                    "ProdID-12739": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 51",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2058000
+                    },
+                    "ProdID-23154": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 55",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 773000
+                    },
+                    "ProdID-17464": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 70",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1834000
+                    },
+                    "ProdID-4647": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 28",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1083000
+                    }
+                }
+            },
+            "Access Management and Governance (Clients)": {
+                "Access Management/Authorisation Capabilities": {
+                    "ProdID-30256": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 16",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 724000
+                    },
+                    "ProdID-33970": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 739000
+                    },
+                    "ProdID-30780": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2196000
+                    },
+                    "ProdID-372": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 177000
+                    },
+                    "ProdID-623": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 18",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 270000
+                    },
+                    "ProdID-25224": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 10",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1749000
+                    }
+                },
+                "Access Rights Entitlement Definition / Mapping": {
+                    "ProdID-26466": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 81",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 566000
+                    },
+                    "ProdID-30256": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 300000
+                    },
+                    "ProdID-372": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 536000
+                    },
+                    "ProdID-623": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2304000
+                    }
+                },
+                "Automated Entitlement Assignment": {
+                    "ProdID-30256": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 41",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 701000
+                    },
+                    "ProdID-372": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 67",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2169000
+                    },
+                    "ProdID-623": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 60",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 343000
+                    }
+                },
+                "Automated Entitlement Restrictions": {
+                    "ProdID-30256": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 333000
+                    },
+                    "ProdID-372": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 45",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1457000
+                    },
+                    "ProdID-623": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 17",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 72000
+                    }
+                }
+            },
+            "Authentication and Federation": {
+                "Adaptive Authentication": {
+                    "ProdID-34124": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1527000
+                    }
+                },
+                "Federated Identity Authorization": {
+                    "ProdID-33325": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1912000
+                    },
+                    "ProdID-17717": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 83",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 593000
+                    },
+                    "ProdID-32363": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1770000
+                    },
+                    "ProdID-27370": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 25",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2416000
+                    },
+                    "ProdID-26711": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 83",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2345000
+                    }
+                },
+                "Federated Identity/SSO": {
+                    "ProdID-20582": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2861000
+                    },
+                    "ProdID-14094": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 14",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1087000
+                    },
+                    "ProdID-33350": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 55",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2807000
+                    },
+                    "ProdID-32550": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 55",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1086000
+                    },
+                    "ProdID-32551": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2859000
+                    },
+                    "ProdID-17700": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 55",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1639000
+                    },
+                    "ProdID-32549": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 43",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2104000
+                    },
+                    "ProdID-34196": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 80",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2718000
+                    },
+                    "ProdID-34251": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 75",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 688000
+                    },
+                    "ProdID-32546": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 62",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2031000
+                    },
+                    "ProdID-33214": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 874000
+                    },
+                    "ProdID-32803": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 664000
+                    },
+                    "ProdID-26711": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2821000
+                    },
+                    "ProdID-32548": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 48",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1499000
+                    },
+                    "ProdID-27446": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 8",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1394000
+                    },
+                    "ProdID-25741": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 71",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2843000
+                    },
+                    "ProdID-33351": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 61",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 185000
+                    },
+                    "ProdID-33414": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2339000
+                    },
+                    "ProdID-32552": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 73",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2731000
+                    },
+                    "ProdID-33415": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1770000
+                    },
+                    "ProdID-33348": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2000
+                    },
+                    "ProdID-33561": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 21",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 885000
+                    },
+                    "ProdID-26466": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 29",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1885000
+                    }
+                },
+                "Multi-factor Authentication": {
+                    "ProdID-26091": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 45",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2596000
+                    },
+                    "ProdID-9555": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 31",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1849000
+                    },
+                    "ProdID-28593": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1213000
+                    },
+                    "ProdID-33460": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 421000
+                    },
+                    "ProdID-14342": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 66",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1440000
+                    },
+                    "ProdID-33240": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 62",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 760000
+                    },
+                    "ProdID-18377": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2673000
+                    }
+                },
+                "Single Sign On (SSO)": {
+                    "ProdID-26711": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1276000
+                    },
+                    "ProdID-32547": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 88",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1809000
+                    },
+                    "ProdID-9555": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 92000
+                    }
+                },
+                "Token Management": {
+                    "ProdID-28059": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 54",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2489000
+                    },
+                    "ProdID-29422": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 82",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1001000
+                    },
+                    "ProdID-19300": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 50",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1323000
+                    },
+                    "ProdID-4671": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 77",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 660000
+                    },
+                    "ProdID-29423": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 84",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2086000
+                    },
+                    "ProdID-28062": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 56",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 762000
+                    }
+                },
+                "Biometric Authentication Methods": {
+                    "ProdID-32589": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2024000
+                    }
+                },
+                "Session Management": {
+                    "ProdID-18844": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2467000
+                    }
+                }
+            },
+            "Privilege Access Management": {
+                "Application-to-Application Password Management": {
+                    "ProdID-30802": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 48",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2093000
+                    }
+                },
+                "Privilege Elevation and Delegation Management": {
+                    "ProdID-26428": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 76",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 44000
+                    },
+                    "ProdID-32534": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1269000
+                    }
+                },
+                "Privileged Access Review (PAR)": {
+                    "ProdID-26377": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 26",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1778000
+                    },
+                    "ProdID-33262": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1747000
+                    },
+                    "ProdID-18844": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 84",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1583000
+                    },
+                    "ProdID-26006": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 73000
+                    }
+                },
+                "Access Control for Shared Accounts": {
+                    "ProdID-28197": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 469000
+                    }
+                },
+                "Conditional Access": {
+                    "ProdID-31454": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1028000
+                    }
+                },
+                "Emergency Access Management (BreakGlass)": {
+                    "ProdID-18844": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 59",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2415000
+                    },
+                    "ProdID-15834": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 2",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2700000
+                    }
+                },
+                "Nonstandard Application Enablement": {
+                    "ProdID-32208": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 36",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1638000
+                    }
+                },
+                "Temporary Privileged Access (Planned & Unplanned)": {
+                    "ProdID-31023": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 42",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 301000
+                    },
+                    "ProdID-31454": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1843000
+                    },
+                    "ProdID-18844": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 26",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 876000
+                    },
+                    "ProdID-30703": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 875000
+                    },
+                    "ProdID-27160": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 5",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 882000
+                    },
+                    "ProdID-31055": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 47",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2310000
+                    },
+                    "ProdID-33263": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 36",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2050000
+                    }
+                }
+            },
+            "Identity Management (Clients)": {
+                "Client Identifier Generation": {
+                    "ProdID-27159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1090000
+                    },
+                    "ProdID-9240": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 12",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 27000
+                    }
+                },
+                "Client User Onboarding and Identity Creation": {
+                    "ProdID-31588": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 978000
+                    },
+                    "ProdID-30256": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 53",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2297000
+                    },
+                    "ProdID-623": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 2",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2617000
+                    }
+                },
+                "Client Identity Request, Modification and Deletion": {
+                    "ProdID-33033": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 42",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2463000
+                    }
+                }
+            },
+            "Credentials": {
+                "Credential Distribution (hard token, mobile registration)": {
+                    "ProdID-372": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 86",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 895000
+                    }
+                },
+                "PKI Management": {
+                    "ProdID-30829": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 40",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1637000
+                    },
+                    "ProdID-18380": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 8",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1855000
+                    }
+                },
+                "Password Management": {
+                    "ProdID-18844": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 5",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2098000
+                    },
+                    "ProdID-372": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2118000
+                    },
+                    "ProdID-28568": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 16",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2129000
+                    }
+                },
+                "Secrets Management - IDAM Specific": {
+                    "ProdID-34338": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 63",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 227000
+                    }
+                }
+            },
+            "Authorisation": {
+                "Role-based authorisation": {
+                    "ProdID-18844": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 83",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 858000
+                    }
+                },
+                "Rule-based authorisation": {
+                    "ProdID-20090": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 72000
+                    }
+                }
+            },
+            "Identity Management (Workforce)": {
+                "Workforce Identifier Generation (Internal Users)": {
+                    "ProdID-9240": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2299000
+                    },
+                    "ProdID-27159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1266000
+                    },
+                    "ProdID-9519": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 23",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 362000
+                    }
+                },
+                "Workforce Identity and Access Object Distribution": {
+                    "ProdID-31023": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 6",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 584000
+                    },
+                    "ProdID-24629": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1605000
+                    },
+                    "ProdID-29622": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 18",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 593000
+                    },
+                    "ProdID-30256": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1963000
+                    },
+                    "ProdID-26815": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1545000
+                    },
+                    "ProdID-372": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 7",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 972000
+                    },
+                    "ProdID-31987": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1284000
+                    },
+                    "ProdID-17861": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 23",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1510000
+                    },
+                    "ProdID-29596": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1133000
+                    },
+                    "ProdID-9525": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 88",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 907000
+                    }
+                },
+                "Workforce Identity Lifecycle Management and Identity Data Provision": {
+                    "ProdID-32530": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 18",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 319000
+                    },
+                    "ProdID-27159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 54",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 968000
+                    },
+                    "ProdID-9240": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 57",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 356000
+                    },
+                    "ProdID-31987": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 17",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1212000
+                    },
+                    "ProdID-19493": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 8",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2323000
+                    },
+                    "ProdID-32380": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1532000
+                    },
+                    "ProdID-34174": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 58",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2418000
+                    }
+                },
+                "Workforce Identity Provisioning": {
+                    "ProdID-30256": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 9",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 459000
+                    },
+                    "ProdID-26815": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 9",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 226000
+                    },
+                    "ProdID-9240": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 54",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2445000
+                    },
+                    "ProdID-29622": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1002000
+                    },
+                    "ProdID-27159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2455000
+                    }
+                },
+                "Workforce Identity Repository": {
+                    "ProdID-17700": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 62",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1938000
+                    },
+                    "ProdID-32590": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 75",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1094000
+                    },
+                    "ProdID-24629": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 41",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 478000
+                    },
+                    "ProdID-27446": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 31",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2586000
+                    },
+                    "ProdID-12419": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1410000
+                    },
+                    "ProdID-11383": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1489000
+                    },
+                    "ProdID-17718": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 57",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1439000
+                    },
+                    "ProdID-25741": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 40",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 240000
+                    },
+                    "ProdID-14094": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2225000
+                    },
+                    "ProdID-33226": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 81",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 755000
+                    },
+                    "ProdID-34148": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 54",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 114000
+                    },
+                    "ProdID-33269": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 40",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2255000
+                    },
+                    "ProdID-33270": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 34",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 218000
+                    },
+                    "ProdID-33268": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 75",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1835000
+                    },
+                    "ProdID-33267": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 3",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2161000
+                    },
+                    "ProdID-26466": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 37",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1895000
+                    }
+                },
+                "Workforce Identity Request, Modification and Deletion": {
+                    "ProdID-27159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 39",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 93000
+                    },
+                    "ProdID-9240": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 62",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2177000
+                    },
+                    "ProdID-32108": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2204000
+                    },
+                    "ProdID-9519": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2016000
+                    }
+                },
+                "Workforce User Onboarding and Identity Creation": {
+                    "ProdID-27159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 66",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2346000
+                    },
+                    "ProdID-9240": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 16",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2556000
+                    },
+                    "ProdID-9519": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 60",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1441000
+                    }
+                }
+            }
+        },
+        "Data Protection": {
+            "Encryption & Key Management": {
+                "Certificate Lifecycle Management": {
+                    "ProdID-24002": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 54",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2476000
+                    },
+                    "ProdID-17063": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 7",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1300000
+                    },
+                    "ProdID-30277": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 37",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 809000
+                    },
+                    "ProdID-18368": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 16",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2298000
+                    },
+                    "ProdID-24899": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 34",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2639000
+                    },
+                    "ProdID-18356": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 29",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1693000
+                    }
+                },
+                "Cloud Key Management": {
+                    "ProdID-33565": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 2",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2818000
+                    },
+                    "ProdID-30819": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2293000
+                    }
+                },
+                "Secrets Management": {
+                    "ProdID-32629": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 63",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1304000
+                    }
+                },
+                "HSM - Extension of storage": {
+                    "ProdID-26223": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 58000
+                    },
+                    "ProdID-33739": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 566000
+                    }
+                },
+                "HSM - Request for encryption and/or key management": {
+                    "ProdID-34276": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 45",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 245000
+                    },
+                    "ProdID-33639": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 51",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1989000
+                    },
+                    "ProdID-26223": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2624000
+                    }
+                }
+            },
+            "Data Usage Monitoring": {
+                "Email DLP": {
+                    "ProdID-31984": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1119000
+                    },
+                    "ProdID-18808": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 79",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2368000
+                    }
+                },
+                "IRM Classification & Encryption": {
+                    "ProdID-28574": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 2",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1953000
+                    },
+                    "ProdID-27605": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 149000
+                    },
+                    "ProdID-18801": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 39",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 841000
+                    },
+                    "ProdID-24091": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1460000
+                    },
+                    "ProdID-30569": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2529000
+                    },
+                    "ProdID-19301": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 683000
+                    },
+                    "ProdID-27899": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 573000
+                    },
+                    "ProdID-26231": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 82",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2160000
+                    },
+                    "ProdID-22695": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 51",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 664000
+                    },
+                    "ProdID-29681": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2654000
+                    },
+                    "ProdID-24436": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 5",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 329000
+                    },
+                    "ProdID-25845": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2799000
+                    },
+                    "ProdID-19889": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 63",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1270000
+                    },
+                    "ProdID-23946": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 39",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2256000
+                    },
+                    "ProdID-12889": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 17",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2295000
+                    },
+                    "ProdID-28369": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1120000
+                    },
+                    "ProdID-20651": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 129000
+                    },
+                    "ProdID-26868": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 16",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2128000
+                    }
+                },
+                "3rd Party DLP": {
+                    "ProdID-797": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2260000
+                    }
+                },
+                "Cloud Access Security Broker (CASB)": {
+                    "ProdID-30145": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1654000
+                    }
+                },
+                "Data Classification": {
+                    "ProdID-34390": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 230000
+                    }
+                },
+                "Data Visibility": {
+                    "ProdID-26224": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 3",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 831000
+                    }
+                },
+                "E-Discovery Software": {
+                    "ProdID-24770": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2852000
+                    },
+                    "ProdID-29156": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 71",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 203000
+                    }
+                },
+                "Web DLP": {
+                    "ProdID-27140": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 16",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1346000
+                    },
+                    "ProdID-18808": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 650000
+                    },
+                    "ProdID-33271": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 58",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1409000
+                    },
+                    "ProdID-32912": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 63",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2127000
+                    }
+                }
+            },
+            "Structured Data Security": {
+                "Structured Data Encryption": {
+                    "ProdID-29637": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2000000
+                    },
+                    "ProdID-12889": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 31",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1033000
+                    },
+                    "ProdID-26341": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 39",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2748000
+                    },
+                    "ProdID-31985": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 20",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 746000
+                    },
+                    "ProdID-13834": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 514000
+                    },
+                    "ProdID-26629": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 678000
+                    },
+                    "ProdID-19965": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 80",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 580000
+                    },
+                    "ProdID-31755": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1234000
+                    },
+                    "ProdID-25755": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 23",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2436000
+                    }
+                }
+            },
+            "Unstructured Data Security": {
+                "Unstructured Data Encryption": {
+                    "ProdID-13834": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 3",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2737000
+                    },
+                    "ProdID-17727": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 31",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2513000
+                    },
+                    "ProdID-31755": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 45",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 1442000
+                    },
+                    "ProdID-26629": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 25",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2245000
+                    },
+                    "ProdID-19965": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 55",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 661000
+                    },
+                    "ProdID-19964": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 10",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 877000
+                    },
+                    "ProdID-29637": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 20",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1947000
+                    },
+                    "ProdID-12889": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 81",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1058000
+                    },
+                    "ProdID-26341": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1332000
+                    },
+                    "ProdID-25755": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 2",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1179000
+                    },
+                    "ProdID-31985": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 15",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 261000
+                    }
+                }
+            },
+            "Document Management": {
+                "Cryptographic Document Signing": {
+                    "ProdID-17642": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 37",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1578000
+                    }
+                }
+            },
+            "Data Discovery": {
+                "Sensitive Data Discovery": {
+                    "ProdID-32466": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 75",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 780000
+                    }
+                }
+            }
+        },
+        "Cyber Security": {
+            "Cyber Threat Intelligence": {
+                "Collection": {
+                    "ProdID-29420": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 89",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1204000
+                    }
+                },
+                "Intelligence Analysis": {
+                    "ProdID-29420": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2688000
+                    },
+                    "ProdID-33019": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 32",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2425000
+                    },
+                    "ProdID-31308": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 67",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2044000
+                    },
+                    "ProdID-32622": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 68",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1358000
+                    }
+                }
+            },
+            "Security Analytics": {
+                "Detection Use Case Management": {
+                    "ProdID-27985": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 15",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 113000
+                    },
+                    "ProdID-17669": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 77",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1650000
+                    }
+                },
+                "Log Aggregation and Management": {
+                    "ProdID-26375": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2696000
+                    },
+                    "ProdID-17669": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2479000
+                    },
+                    "ProdID-33120": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 2",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2646000
+                    },
+                    "ProdID-32487": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 46",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1490000
+                    }
+                },
+                "User Entity and Behaviour Analysis": {
+                    "ProdID-30585": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 62",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2631000
+                    },
+                    "ProdID-32172": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2532000
+                    },
+                    "ProdID-32007": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2098000
+                    }
+                },
+                "Data Analytics and Machine Learning": {
+                    "ProdID-27985": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 37",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2578000
+                    }
+                },
+                "Security Incident and Event Management (SIEM)": {
+                    "ProdID-34007": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1572000
+                    },
+                    "ProdID-33158": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 68",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1972000
+                    }
+                }
+            },
+            "Threat Detection & Response": {
+                "Exploit Prevention and Memory Protection": {
+                    "ProdID-17459": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 594000
+                    },
+                    "ProdID-29634": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 31",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2023000
+                    },
+                    "ProdID-17461": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 88",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 617000
+                    },
+                    "ProdID-17458": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 296000
+                    },
+                    "ProdID-15431": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1127000
+                    }
+                },
+                "Forensic Investigation": {
+                    "ProdID-31737": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 80",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1529000
+                    },
+                    "ProdID-17085": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 40",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 273000
+                    },
+                    "ProdID-25956": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 768000
+                    },
+                    "ProdID-33021": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 48",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1837000
+                    },
+                    "ProdID-28385": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2755000
+                    },
+                    "ProdID-23768": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 128000
+                    },
+                    "ProdID-29305": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2942000
+                    },
+                    "ProdID-26185": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 602000
+                    },
+                    "ProdID-24769": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 51",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1038000
+                    }
+                },
+                "Malware Analysis": {
+                    "ProdID-33018": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 88",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2998000
+                    },
+                    "ProdID-33650": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 61",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2730000
+                    },
+                    "ProdID-33647": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 54",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2540000
+                    },
+                    "ProdID-32271": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 73",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1882000
+                    },
+                    "ProdID-34291": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 917000
+                    }
+                },
+                "Endpoint Detection and Response": {
+                    "ProdID-20767": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2119000
+                    },
+                    "ProdID-29906": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 590000
+                    },
+                    "ProdID-34175": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 56",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1907000
+                    }
+                },
+                "Incident Management / Response": {
+                    "ProdID-32901": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 21",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1269000
+                    },
+                    "ProdID-32899": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 27",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 985000
+                    }
+                },
+                "Lessons Learned": {
+                    "ProdID-32267": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 44",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1000000
+                    },
+                    "ProdID-31984": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 40",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2527000
+                    }
+                }
+            },
+            "Threat Defence Analysis": {
+                "Red Teaming": {
+                    "ProdID-33433": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 36",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 81000
+                    },
+                    "ProdID-33439": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 52",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2599000
+                    },
+                    "ProdID-32272": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 82",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 91000
+                    },
+                    "ProdID-33434": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 12",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1885000
+                    },
+                    "ProdID-33440": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 880000
+                    },
+                    "ProdID-33435": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 7",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 467000
+                    },
+                    "ProdID-31996": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 724000
+                    },
+                    "ProdID-32060": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 87",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1275000
+                    },
+                    "ProdID-33436": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 34",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2137000
+                    },
+                    "ProdID-33437": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 64",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1980000
+                    },
+                    "ProdID-33438": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2478000
+                    }
+                },
+                "Control Gap Analysis": {
+                    "ProdID-32666": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 72",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1989000
+                    },
+                    "ProdID-28307": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 66",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 779000
+                    },
+                    "ProdID-33826": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2587000
+                    },
+                    "ProdID-34096": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 88",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1178000
+                    }
+                },
+                "Threat Modelling": {
+                    "ProdID-31296": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1844000
+                    }
+                }
+            },
+            "Fusion": {
+                "Risk Engine": {
+                    "ProdID-34292": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 803000
+                    }
+                }
+            },
+            "Attack Surface Reduction": {
+                "Unauthorised Asset Detection": {
+                    "ProdID-33668": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 14",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1979000
+                    }
+                },
+                "Vulnerability Scanning": {
+                    "ProdID-32648": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 46",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2601000
+                    },
+                    "ProdID-4359": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 51",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 193000
+                    },
+                    "ProdID-31122": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 79",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2183000
+                    },
+                    "ProdID-33020": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 61",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1478000
+                    },
+                    "ProdID-30321": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 84",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1853000
+                    },
+                    "ProdID-26502": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 20",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 557000
+                    }
+                },
+                "Secure Configuration Scanning": {
+                    "ProdID-31122": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 619000
+                    },
+                    "ProdID-19076": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 66",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1201000
+                    },
+                    "ProdID-33159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 59",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 201000
+                    },
+                    "ProdID-23429": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 56",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1678000
+                    }
+                }
+            },
+            "Security Orchestration and Automation": {
+                "Workflow and Automation": {
+                    "ProdID-32273": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2518000
+                    },
+                    "ProdID-31297": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 55",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1228000
+                    }
+                }
+            }
+        },
+        "GRC": {
+            "Compliance": {
+                "GRC": {
+                    "ProdID-33905": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 60",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1717000
+                    },
+                    "ProdID-15780": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2857000
+                    },
+                    "ProdID-30795": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 5",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2689000
+                    }
+                }
+            },
+            "Risk": {
+                "Risk Management": {
+                    "ProdID-32563": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 76",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2861000
+                    },
+                    "ProdID-33905": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 75",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 155000
+                    }
+                },
+                "Risk Culture": {
+                    "ProdID-34269": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 14",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1107000
+                    },
+                    "ProdID-31418": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 86",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 421000
+                    }
+                }
+            },
+            "Governance": {
+                "Security Assurance": {
+                    "ProdID-31061": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1628000
+                    },
+                    "ProdID-32988": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 26",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1376000
+                    },
+                    "ProdID-34275": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 86",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1857000
+                    },
+                    "ProdID-20667": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 47",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1167000
+                    }
+                }
+            }
+        },
+        "End User System Security": {
+            "Endpoint Protection": {
+                "Hardened Build": {
+                    "ProdID-32003": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 77",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2744000
+                    }
+                },
+                "Vulnerability Assessment and Management": {
+                    "ProdID-31247": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 84",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 1539000
+                    },
+                    "ProdID-17574": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1909000
+                    }
+                },
+                "Mobile Policy Enforcement": {
+                    "ProdID-34168": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 58",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2009000
+                    },
+                    "ProdID-34169": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 81",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 319000
+                    }
+                },
+                "Phishing and Spam Detection": {
+                    "ProdID-34095": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 73",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2866000
+                    },
+                    "ProdID-31175": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 65",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 820000
+                    },
+                    "ProdID-25594": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 58",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2615000
+                    }
+                },
+                "Third-Party Integration (API ext)": {
+                    "ProdID-24526": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 86",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2939000
+                    }
+                }
+            },
+            "Data Protection": {
+                "Preboot OS-level encryption of physical or virtual device": {
+                    "ProdID-30030": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 83",
+                        "Intent": "Decom",
+                        "Decom Date": 2030,
+                        "Cost": 2827000
+                    }
+                },
+                "Endpoint DLP": {
+                    "ProdID-17665": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 47",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2404000
+                    },
+                    "ProdID-30830": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 33",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2877000
+                    }
+                }
+            }
+        },
+        "Network Security": {
+            "Network Threat Detection": {
+                "IDS / IPS": {
+                    "ProdID-23652": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 84",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 2850000
+                    },
+                    "ProdID-23645": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 11",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 572000
+                    }
+                },
+                "Network Anti-Malware Scanning": {
+                    "ProdID-33495": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 11",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1947000
+                    }
+                }
+            },
+            "Network Visibility": {
+                "Network Analysis and Visibility": {
+                    "ProdID-34039": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 19",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2967000
+                    }
+                }
+            },
+            "Network Security Management": {
+                "Network Security Configuration Management": {
+                    "ProdID-28394": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 34",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2369000
+                    },
+                    "ProdID-23229": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2698000
+                    },
+                    "ProdID-4254": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 73",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1873000
+                    },
+                    "ProdID-23159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 78",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 897000
+                    },
+                    "ProdID-30466": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 166000
+                    },
+                    "ProdID-4181": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 42000
+                    },
+                    "ProdID-32301": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 59",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2509000
+                    },
+                    "ProdID-17498": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 47",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 884000
+                    }
+                },
+                "Security Configuration Check": {
+                    "ProdID-24835": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 68",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 403000
+                    }
+                }
+            },
+            "Secure Network and Internet Access": {
+                "Reverse Proxy Gateway": {
+                    "ProdID-27370": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 21",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 874000
+                    },
+                    "ProdID-26091": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 71",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2410000
+                    },
+                    "ProdID-33416": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 18",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1601000
+                    },
+                    "ProdID-32266": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2725000
+                    },
+                    "ProdID-9555": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 39",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2014000
+                    },
+                    "ProdID-29980": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 13",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1139000
+                    },
+                    "ProdID-27699": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 31",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1005000
+                    },
+                    "ProdID-19541": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 35",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1430000
+                    },
+                    "ProdID-17714": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 85",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2187000
+                    }
+                },
+                "URL Restriction": {
+                    "ProdID-23159": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 26",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 1859000
+                    },
+                    "ProdID-20167": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 62",
+                        "Intent": "Decom",
+                        "Decom Date": 2025,
+                        "Cost": 1163000
+                    },
+                    "ProdID-18749": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Decom",
+                        "Decom Date": 2024,
+                        "Cost": 2687000
+                    },
+                    "ProdID-33225": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 86",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2826000
+                    },
+                    "ProdID-32443": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 56",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1644000
+                    },
+                    "ProdID-26204": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2873000
+                    },
+                    "ProdID-28394": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1092000
+                    },
+                    "ProdID-18751": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 1",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 395000
+                    }
+                },
+                "B2B VPN-Gateway": {
+                    "ProdID-4941": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 218000
+                    }
+                },
+                "Network Access Control": {
+                    "ProdID-26036": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 6",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1354000
+                    },
+                    "ProdID-23154": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 66",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 199000
+                    },
+                    "ProdID-20602": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 507000
+                    }
+                }
+            },
+            "Network Protection": {
+                "DDoS Protection": {
+                    "ProdID-31326": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 4",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 87000
+                    }
+                },
+                "Macro-Segmentation": {
+                    "ProdID-23652": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 88",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 601000
+                    }
+                },
+                "Micro-Segmentation": {
+                    "ProdID-33397": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 55",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 732000
+                    }
+                },
+                "Physical Firewall Boundary": {
+                    "ProdID-23652": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 76",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2663000
+                    },
+                    "ProdID-19628": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 840000
+                    }
+                }
+            }
+        },
+        "Application Security": {
+            "Governance & Design": {
+                "Application/Software Threat Modelling": {
+                    "ProdID-34012": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 32",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1604000
+                    }
+                }
+            },
+            "Secure Integration": {
+                "Dynamic Application Security Testing": {
+                    "ProdID-32486": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 69",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2384000
+                    },
+                    "ProdID-34084": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 71",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1807000
+                    },
+                    "ProdID-33824": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2039000
+                    }
+                },
+                "Interactive Application Security Testing": {
+                    "ProdID-31531": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 38",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2218000
+                    }
+                },
+                "Release Management": {
+                    "ProdID-34107": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 21",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1328000
+                    }
+                },
+                "Static Application Security Testing": {
+                    "ProdID-33850": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 23",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1992000
+                    }
+                }
+            },
+            "Secure Development": {
+                "Process, Integration & Orchestration": {
+                    "ProdID-34085": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 61",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 729000
+                    }
+                }
+            },
+            "Secure Environment": {
+                "Root Cause Analysis": {
+                    "ProdID-33825": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 74",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 2656000
+                    }
+                }
+            }
+        },
+        "Physical & Device Security": {
+            "IoT Security": {
+                "Device Management": {
+                    "ProdID-33698": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 30",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 1958000
+                    },
+                    "ProdID-29274": {
+                        "Heritage": "Green",
+                        "Vendor": "Vendor 22",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 884000
+                    }
+                }
+            },
+            "Physical Access Systems": {
+                "Physical Access Systems - PIAM": {
+                    "ProdID-12383": {
+                        "Heritage": "Red",
+                        "Vendor": "Vendor 24",
+                        "Intent": "Keep",
+                        "Decom Date": 2099,
+                        "Cost": 663000
+                    }
+                }
+            }
+        }
+    }
+}

@@ -14,7 +14,9 @@
 
 // Specify the chart’s dimensions.
 const width = 928;
-const height = 1200;
+const height = width;
+const radius = width / 6;
+
 
   // Compute the layout.
   const hierarchy = d3.hierarchy(strata)
@@ -26,8 +28,11 @@ const height = 1200;
     (hierarchy);
 
   // Create the color scale.
-  const color = d3.scaleOrdinal(d3.quantize(d3.interpolateRainbow, table.children.length + 1));
+  const color = d3.scaleOrdinal(d3.quantize(d3.interpolateRainbow, data.children.length + 1))
    
+
+
+  
 
 // Append the SVG element.
 container.append(svg.node());

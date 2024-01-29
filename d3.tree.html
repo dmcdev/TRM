@@ -8,7 +8,6 @@
     const table = await d3.json("output.json");
 
 
-
     const root = d3.stratify()
     .id((d) => d.name)
     .parentId((d) => d.parent)
