@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Diagram</title>
+    <style>
+        .node {
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+
+        .link {
+            stroke: #999;
+            stroke-opacity: 0.6;
+        }
+
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: 80px;
+            height: 28px;
+            padding: 2px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+            opacity: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="tooltip" class="tooltip"></div>
+    <svg width="960" height="600"></svg>
+
+    <script type="module">
+        import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+        // Set the dimensions and margins of the graph
+        var width = 960,
+            height = 600;
+
+        // Append the svg object to the body of the page
+        var svg = d3.select("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        var tooltip = d3.select("#tooltip");
+
+        // Load the data
+        Promise.all([
+            d3.csv("nodes.csv"),
+            d3.csv("links.csv")
+        ]).then(function(files) {
+            var nodes = files[0];
+            var links = files[1];
+
+            // Convert links to numeric values
+            links.forEach(function(link) {
+                link.source = +link.source;
+                link.target = +link.target;
+            });
+
+            // Create a simulation for the force-directed graph
+            var simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(function(d) { return d.nodeID; }).distance(100))
+                .force("charge", d3.forceManyBody().strength(-100))
+                .force("center", d3.forceCenter(width / 2, height / 2));
+
+            // Add the links
+            var link = svg.append("g")
+                .attr("class", "links")
+                .selectAll("line")
+                .data(links)
+                .enter().append("line")
+                .attr("class", "link");
+
+            // Add the nodes
+            var node = svg.append("g")
+                .attr("class", "nodes")
+                .selectAll("circle")
+                .data(nodes)
+                .enter().append("circle")
+                .attr("class", "node")
+                .attr("r", function(d) { return Math.sqrt(d.nodeCost) * 5; }) // Adjust size based on nodeCost
+                .attr("fill", function(d) { return d3.schemeCategory10[d.nodeGroup]; })
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended));
+
+            // Tooltip functionality
+            node.on("mouseover", function(event, d) {
+                tooltip.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                tooltip.html("ID: " + d.nodeID)
+                    .style("left", (event.pageX + 5) + "px")
+                    .style("top", (event.pageY - 28) + "px");
+
+                // Highlight the current node and its target nodes
+                link.style("stroke", function(l) {
+                    if (l.target.nodeID === d.nodeID) {
+                        return "red";
+                    } else {
+                        return "#999";
+                    }
+                });
+            })
+            .on("mouseout", function(d) {
+                tooltip.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+                link.style("stroke", "#999");
+            });
+
+            // Update positions based on simulation
+            simulation.on("tick", function() {
+                link
+                    .attr("x1", function(d) { return d.source.x; })
+                    .attr("y1", function(d) { return d.source.y; })
+                    .attr("x2", function(d) { return d.target.x; })
+                    .attr("y2", function(d) { return d.target.y; });
+
+                node
+                    .attr("cx", function(d) { return d.x; })
+                    .attr("cy", function(d) { return d.y; });
+            });
+
+            // Functions for dragging nodes
+            function dragstarted(event, d) {
+                if (!event.active) simulation.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+            }
+
+            function dragged(event, d) {
+                d.fx = event.x;
+                d.fy = event.y;
+            }
+
+            function dragended(event, d) {
+                if (!event.active) simulation.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+            }
+        });
+    </script>
+</body>
+</html>

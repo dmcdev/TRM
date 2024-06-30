@@ -1,4 +1,4 @@
-id,nodeGroup,nodeCost
+nodeID,nodeGroup,nodeCost
 ICTO-1,IB,10
 ICTO-2,IB,20
 ICTO-10,WM,20
