@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Graph Visualization</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        #graph {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="graph"></div>
+
+    <script type="module">
+        import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+
+        // Load data
+        Promise.all([
+            d3.csv("nodes.csv"),
+            d3.csv("links.csv")
+        ]).then(([nodes, links]) => {
+            const width = window.innerWidth;
+            const height = window.innerHeight;
+
+            const svg = d3.select("#graph")
+                .append("svg")
+                .attr("viewBox", [0, 0, width, height])
+                .attr("width", "100%")
+                .attr("height", "100%");
+
+            const g = svg.append("g");
+
+            // Add zoom functionality
+            const zoom = d3.zoom()
+                .scaleExtent([0.1, 4])
+                .on("zoom", (event) => {
+                    g.attr("transform", event.transform);
+                });
+
+            svg.call(zoom);
+
+            // Create a color scale
+            const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+            // Create a size scale
+            const size = d3.scaleLinear()
+                .domain(d3.extent(nodes, d => +d.NodeCost))
+                .range([5, 20]);
+
+            // Create the simulation
+            const simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id))
+                .force("charge", d3.forceManyBody().strength(-100))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collision", d3.forceCollide().radius(d => size(d.NodeCost) + 5))
+                .force("x", d3.forceX(width / 2).strength(0.1))
+                .force("y", d3.forceY(height / 2).strength(0.1));
+
+            // Add links
+            const link = g.append("g")
+                .selectAll("line")
+                .data(links)
+                .join("line")
+                .attr("stroke", "#999")
+                .attr("stroke-opacity", 0.6)
+                .attr("stroke-width", 1);
+
+            // Add arrow markers
+            svg.append("defs").selectAll("marker")
+                .data(["end"])
+                .enter().append("marker")
+                .attr("id", String)
+                .attr("viewBox", "0 -5 10 10")
+                .attr("refX", 15)
+                .attr("refY", 0)
+                .attr("markerWidth", 6)
+                .attr("markerHeight", 6)
+                .attr("orient", "auto")
+                .append("path")
+                .attr("d", "M0,-5L10,0L0,5")
+                .attr("fill", "#999");
+
+            // Add nodes
+            const node = g.append("g")
+                .selectAll("g")
+                .data(nodes)
+                .join("g")
+                .call(drag(simulation));
+
+            node.append("path")
+                .attr("d", d => d.NodeType === "sub" ? d3.symbol().type(d3.symbolSquare).size(size(d.NodeCost) * 50)() : d3.symbol().type(d3.symbolCircle).size(size(d.NodeCost) * 50)())
+                .attr("fill", d => color(d.NodeGroup));
+
+            node.append("title")
+                .text(d => d.id);
+
+            // Update positions
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y)
+                    .attr("marker-end", "url(#end)");
+
+                node
+                    .attr("transform", d => `translate(${d.x},${d.y})`);
+
+                // Keep nodes within bounds
+                node.each(d => {
+                    d.x = Math.max(size(d.NodeCost), Math.min(width - size(d.NodeCost), d.x));
+                    d.y = Math.max(size(d.NodeCost), Math.min(height - size(d.NodeCost), d.y));
+                });
+            });
+
+            // Fit the graph to the SVG on initial load
+            function fitGraph() {
+                const bounds = g.node().getBBox();
+                const fullWidth = width;
+                const fullHeight = height;
+                const width_ = bounds.width;
+                const height_ = bounds.height;
+                const midX = bounds.x + width_ / 2;
+                const midY = bounds.y + height_ / 2;
+
+                if (width_ === 0 || height_ === 0) return; // nothing to fit
+
+                const scale = 0.8 / Math.max(width_ / fullWidth, height_ / fullHeight);
+                const translate = [fullWidth / 2 - scale * midX, fullHeight / 2 - scale * midY];
+
+                svg.transition()
+                    .duration(750)
+                    .call(zoom.transform, d3.zoomIdentity
+                        .translate(translate[0], translate[1])
+                        .scale(scale));
+            }
+
+            // Call fitGraph after the simulation has settled
+            simulation.on("end", fitGraph);
+
+            // Drag function
+            function drag(simulation) {
+                function dragstarted(event) {
+                    if (!event.active) simulation.alphaTarget(0.3).restart();
+                    event.subject.fx = event.subject.x;
+                    event.subject.fy = event.subject.y;
+                }
+
+                function dragged(event) {
+                    event.subject.fx = event.x;
+                    event.subject.fy = event.y;
+                }
+
+                function dragended(event) {
+                    if (!event.active) simulation.alphaTarget(0);
+                    event.subject.fx = null;
+                    event.subject.fy = null;
+                }
+
+                return d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended);
+            }
+        });
+    </script>
+</body>
+</html>
